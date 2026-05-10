@@ -34,6 +34,18 @@ def create_trip(user: User, data: dict) -> Trip:
     return trip
 
 
+def list_trips(user: User, page: int, per_page: int, sort: str, order: str):
+    return get_trips_for_user(user, page, per_page, sort, order)
+
+
+def get_trip(slug: str, user: User) -> Trip:
+    return get_trip_by_slug(slug, user.id)
+
+
+def get_trip_by_share_token(share_token: str) -> Trip:
+    return get_public_trip(share_token)
+
+
 def get_trips_for_user(user: User, page: int, per_page: int, sort: str, order: str):
     from app.utils.helpers import paginate_query
 
@@ -89,12 +101,12 @@ def delete_trip(trip: Trip) -> None:
     db.session.commit()
 
 
-def enable_sharing(trip: Trip) -> Trip:
+def enable_sharing(trip: Trip) -> str:
     if not trip.share_token:
         trip.share_token = secrets.token_urlsafe(32)
     trip.is_public = True
     db.session.commit()
-    return trip
+    return trip.share_token
 
 
 def disable_sharing(trip: Trip) -> Trip:
