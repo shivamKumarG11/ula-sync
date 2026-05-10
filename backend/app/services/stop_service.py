@@ -17,6 +17,13 @@ def _assert_dates_within_trip(
         )
 
 
+def get_stop(stop_id: str, trip: Trip) -> Stop:
+    stop = Stop.query.filter_by(id=stop_id, trip_id=trip.id).first()
+    if not stop:
+        raise AppError("Stop not found", 404)
+    return stop
+
+
 def get_stops(trip: Trip) -> list[Stop]:
     return trip.stops.order_by(Stop.order_index).all()
 

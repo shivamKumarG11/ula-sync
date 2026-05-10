@@ -50,7 +50,7 @@ def reorder_stops(args, trip_slug):
 def update_stop(args, trip_slug, stop_id):
     trip = _trip(trip_slug)
     stop = stop_service.get_stop(stop_id, trip)
-    stop = stop_service.update_stop(stop, trip, args)
+    stop = stop_service.update_stop(stop, args, trip)
     return make_response_envelope(StopOutputSchema().dump(stop)), 200
 
 

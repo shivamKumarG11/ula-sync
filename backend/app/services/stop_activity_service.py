@@ -5,6 +5,22 @@ from app.models import Activity, City, Stop, StopActivity, Trip
 from app.utils.errors import AppError
 
 
+def add_stop_activity(stop: Stop, data: dict) -> StopActivity:
+    return add_activity(stop, data)
+
+
+def get_stop_activity(sa_id: str, stop: Stop) -> StopActivity:
+    return get_activity_instance_by_id(sa_id, stop)
+
+
+def update_stop_activity(sa: StopActivity, stop: Stop, data: dict) -> StopActivity:
+    return update_activity(sa, data, stop)
+
+
+def delete_stop_activity(sa: StopActivity) -> None:
+    return delete_activity(sa)
+
+
 def get_stop_activities(stop: Stop) -> list[StopActivity]:
     return (
         stop.activities.order_by(
