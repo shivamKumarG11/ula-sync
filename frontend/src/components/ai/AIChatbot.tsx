@@ -23,6 +23,7 @@ export function AIChatbot() {
   return (
     <>
       <button
+        type="button"
         onClick={toggleChat}
         className="fixed bottom-6 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-primary text-primary-foreground shadow-lg hover:bg-primary/90 transition-colors"
         aria-label="Open AI chat"
@@ -43,7 +44,7 @@ export function AIChatbot() {
               <span className="font-semibold text-sm flex items-center gap-2">
                 <Bot className="h-4 w-4" /> Traveloop AI
               </span>
-              <button onClick={toggleChat}>
+              <button type="button" aria-label="Close chat" onClick={toggleChat}>
                 <X className="h-4 w-4" />
               </button>
             </div>
