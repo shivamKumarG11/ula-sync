@@ -2,7 +2,7 @@
 
 ## Description
 
-(5–6 lines describing the city, culture, tourism importance, vibe, and travel experience.)
+(5–6 lines describing the city, culture, tourism importance, vibe, and travel experience. )
 
 ---
 
