@@ -45,14 +45,14 @@ function HeroCarousel() {
   useEffect(() => {
     const id = setInterval(() => {
       setDirection(1);
-      setCurrent((c) => (c + 1) % heroImages.length);
+      setCurrent((prev: number) => (prev + 1) % heroImages.length);
     }, 5000);
     return () => clearInterval(id);
   }, []);
 
   const go = (delta: number) => {
     setDirection(delta);
-    setCurrent((c) => (c + delta + heroImages.length) % heroImages.length);
+    setCurrent((prev: number) => (prev + delta + heroImages.length) % heroImages.length);
   };
 
   const img = heroImages[current];
@@ -97,12 +97,16 @@ function HeroCarousel() {
 
       {/* Controls */}
       <button
+        type="button"
+        aria-label="Previous destination"
         onClick={() => go(-1)}
         className="absolute left-3 top-1/2 -translate-y-1/2 h-9 w-9 rounded-full bg-black/30 hover:bg-black/50 flex items-center justify-center text-white transition-colors"
       >
         <ChevronLeft className="h-5 w-5" />
       </button>
       <button
+        type="button"
+        aria-label="Next destination"
         onClick={() => go(1)}
         className="absolute right-3 top-1/2 -translate-y-1/2 h-9 w-9 rounded-full bg-black/30 hover:bg-black/50 flex items-center justify-center text-white transition-colors"
       >
@@ -111,9 +115,11 @@ function HeroCarousel() {
 
       {/* Dots */}
       <div className="absolute bottom-6 right-6 flex gap-1.5">
-        {heroImages.map((_, i) => (
+        {heroImages.map((h, i) => (
           <button
             key={i}
+            type="button"
+            aria-label={`Go to ${h.city}`}
             onClick={() => { setDirection(i > current ? 1 : -1); setCurrent(i); }}
             className={`h-1.5 rounded-full transition-all ${
               i === current ? "w-6 bg-white" : "w-1.5 bg-white/40"

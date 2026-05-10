@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { MapPin, Globe } from "lucide-react";
+import { MapPin, Globe, Bookmark } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/Card";
 import { Skeleton } from "@/components/ui/Skeleton";
 import { SearchBar } from "@/components/shared/SearchBar";
@@ -8,23 +8,30 @@ import { PageWrapper } from "@/components/layout/PageWrapper";
 import { useCities } from "@/hooks/useCities";
 import { useDebounce } from "@/hooks/useDebounce";
 import { formatCurrency } from "@/utils/formatters";
+import { getCityImage } from "@/utils/cityImages";
 import type { City } from "@/types/city";
 
 function CityCard({ city, onClick }: { city: City; onClick: () => void }) {
+  const fallbackSrc = getCityImage(city.slug);
+  const coverSrc = city.cover_photo_url ?? fallbackSrc;
+
   return (
     <Card
       className="cursor-pointer hover:shadow-md transition-shadow overflow-hidden group"
       onClick={onClick}
     >
-      {city.cover_photo_url && (
-        <div className="h-36 overflow-hidden">
-          <img
-            src={city.cover_photo_url}
-            alt={city.name}
-            className="h-full w-full object-cover group-hover:scale-105 transition-transform duration-300"
-          />
-        </div>
-      )}
+      <div className="h-36 overflow-hidden bg-muted">
+        <img
+          src={coverSrc}
+          alt={city.name}
+          className="h-full w-full object-cover group-hover:scale-105 transition-transform duration-300"
+          onError={(e) => {
+            if ((e.currentTarget as HTMLImageElement).src !== fallbackSrc) {
+              (e.currentTarget as HTMLImageElement).src = fallbackSrc;
+            }
+          }}
+        />
+      </div>
       <CardContent className="pt-3 pb-4">
         <h3 className="font-semibold">{city.name}</h3>
         <p className="text-xs text-muted-foreground flex items-center gap-1 mt-0.5">
