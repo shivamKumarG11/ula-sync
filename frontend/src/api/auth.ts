@@ -1,5 +1,5 @@
 import client from "./client";
-import type { User } from "@/types/user";
+import type { User, UserUpdateInput } from "@/types/user";
 
 interface RegisterInput {
   email: string;
@@ -24,4 +24,7 @@ export const authApi = {
   logout: () => client.post("/api/v1/auth/logout"),
 
   me: () => client.get<User>("/api/v1/auth/me"),
+
+  updateMe: (data: UserUpdateInput) =>
+    client.put<User>("/api/v1/users/me", data),
 };

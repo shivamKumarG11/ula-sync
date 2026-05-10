@@ -41,7 +41,7 @@ export function Navbar() {
         <div className="ml-auto flex items-center gap-2">
           {isAuthenticated && user ? (
             <>
-              <Link to={`/u/${user.username}/dashboard`}>
+              <Link to="/dashboard">
                 <Button variant="ghost" size="sm" className="gap-2">
                   <User className="h-4 w-4" />
                   {user.username}

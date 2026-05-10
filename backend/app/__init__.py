@@ -1,7 +1,7 @@
 import os
 
 from dotenv import load_dotenv
-from flask import Flask
+from flask import Flask, send_from_directory
 
 from app.config import config
 from app.extensions import bcrypt, cache, cors, db, jwt, limiter, migrate
@@ -20,6 +20,7 @@ def create_app(config_name: str | None = None) -> Flask:
     _register_blueprints(app)
     _register_error_handlers(app)
     _ensure_upload_dir(app)
+    _register_static_images(app)
 
     return app
 
@@ -55,3 +56,14 @@ def _ensure_upload_dir(app: Flask) -> None:
     os.makedirs(upload_folder, exist_ok=True)
     os.makedirs(os.path.join(upload_folder, "avatars"), exist_ok=True)
     os.makedirs(os.path.join(upload_folder, "trips"), exist_ok=True)
+
+
+def _register_static_images(app: Flask) -> None:
+    """Serve the data/ folder images at /images/<path> so the frontend can use them."""
+    data_dir = os.path.abspath(
+        os.path.join(os.path.dirname(__file__), "..", "..", "data")
+    )
+
+    @app.route("/images/<path:filename>")
+    def serve_data_image(filename: str):
+        return send_from_directory(data_dir, filename)

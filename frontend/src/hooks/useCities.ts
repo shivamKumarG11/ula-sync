@@ -1,4 +1,4 @@
-import { useQuery } from "@tanstack/react-query";
+import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import { citiesApi } from "@/api/cities";
 
 export function useCities(params?: {
@@ -27,5 +27,21 @@ export function useSavedCities() {
   return useQuery({
     queryKey: ["saved-cities"],
     queryFn: () => citiesApi.savedList().then((r) => r.data),
+  });
+}
+
+export function useSaveCity() {
+  const qc = useQueryClient();
+  return useMutation({
+    mutationFn: (cityId: number) => citiesApi.save(cityId).then((r) => r.data),
+    onSuccess: () => qc.invalidateQueries({ queryKey: ["saved-cities"] }),
+  });
+}
+
+export function useUnsaveCity() {
+  const qc = useQueryClient();
+  return useMutation({
+    mutationFn: (cityId: number) => citiesApi.unsave(cityId),
+    onSuccess: () => qc.invalidateQueries({ queryKey: ["saved-cities"] }),
   });
 }

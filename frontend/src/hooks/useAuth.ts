@@ -2,9 +2,11 @@ import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import { authApi } from "@/api/auth";
 import { useAuthStore } from "@/store/authStore";
 import type { LoginInput, RegisterInput } from "@/schemas/auth.schema";
+import type { UserUpdateInput } from "@/types/user";
 
 export function useAuth() {
   const { user, isAuthenticated, setUser, logout: clearUser } = useAuthStore();
+  const qc = useQueryClient();
 
   const meQuery = useQuery({
     queryKey: ["me"],
@@ -30,6 +32,14 @@ export function useAuth() {
     onSuccess: () => clearUser(),
   });
 
+  const updateProfileMutation = useMutation({
+    mutationFn: (data: UserUpdateInput) => authApi.updateMe(data).then((r) => r.data),
+    onSuccess: (data) => {
+      setUser(data);
+      qc.invalidateQueries({ queryKey: ["me"] });
+    },
+  });
+
   return {
     user: meQuery.data ?? user,
     isAuthenticated,
@@ -39,5 +49,7 @@ export function useAuth() {
     register: registerMutation.mutateAsync,
     isRegisterPending: registerMutation.isPending,
     logout: logoutMutation.mutate,
+    updateProfile: updateProfileMutation.mutateAsync,
+    isUpdatingProfile: updateProfileMutation.isPending,
   };
 }
