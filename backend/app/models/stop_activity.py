@@ -13,7 +13,7 @@ from sqlalchemy import (
     Text,
     Time,
 )
-from sqlalchemy.dialects.postgresql import UUID
+from sqlalchemy import Uuid as UUID
 
 from app.extensions import db
 from app.models.enums import ActivityCategoryEnum

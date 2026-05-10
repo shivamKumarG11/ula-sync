@@ -2,7 +2,7 @@ import uuid
 from datetime import datetime, timezone
 
 from sqlalchemy import Boolean, Column, Enum, ForeignKey, Index, String
-from sqlalchemy.dialects.postgresql import UUID
+from sqlalchemy import Uuid as UUID
 
 from app.extensions import db
 from app.models.enums import PackingCategoryEnum

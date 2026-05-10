@@ -1,5 +1,4 @@
 from marshmallow import Schema, ValidationError, fields, validate, validates, validates_schema
-from marshmallow_enum import EnumField
 
 from app.models.enums import TravelStyleEnum
 

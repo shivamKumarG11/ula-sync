@@ -12,7 +12,7 @@ from sqlalchemy import (
     Text,
     Time,
 )
-from sqlalchemy.dialects.postgresql import TIMESTAMP, UUID
+from sqlalchemy import DateTime, Uuid as UUID
 
 from app.extensions import db
 from app.models.enums import ActivityCategoryEnum
@@ -41,7 +41,7 @@ class Activity(db.Model):
     booking_required = Column(Boolean, nullable=False, default=False)
     booking_link = Column(Text, nullable=True)
     created_at = Column(
-        TIMESTAMP(timezone=True),
+        DateTime(timezone=True),
         nullable=False,
         default=lambda: datetime.now(timezone.utc),
     )

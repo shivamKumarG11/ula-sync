@@ -3,7 +3,7 @@ import io
 
 from app.middleware.auth_middleware import require_auth
 from app.schemas.invoice_schema import (
-    InvoiceInputSchema,
+    InvoiceCreateSchema as InvoiceInputSchema,
     InvoiceItemInputSchema,
     InvoiceItemOutputSchema,
     InvoiceItemUpdateSchema,

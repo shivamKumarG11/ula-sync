@@ -1,7 +1,7 @@
 import uuid
 
 from sqlalchemy import Column, ForeignKey, Index, Integer, PrimaryKeyConstraint, String, Text
-from sqlalchemy.dialects.postgresql import JSONB, TIMESTAMP, UUID
+from sqlalchemy import JSON, DateTime, Uuid as UUID
 
 from app.extensions import db
 from app.models.mixins import TimestampMixin
@@ -28,7 +28,7 @@ class CommunityPost(TimestampMixin, db.Model):
     )
     title = Column(String(200), nullable=False)
     content = Column(Text, nullable=False)
-    image_urls = Column(JSONB, nullable=False, default=list)
+    image_urls = Column(JSON, nullable=False, default=list)
     likes_count = Column(Integer, nullable=False, default=0)
     comments_count = Column(Integer, nullable=False, default=0)
 
@@ -96,7 +96,7 @@ class CommunityLike(db.Model):
         nullable=False,
     )
     liked_at = Column(
-        TIMESTAMP(timezone=True),
+        DateTime(timezone=True),
         nullable=False,
         default=lambda: __import__("datetime").datetime.now(
             __import__("datetime").timezone.utc

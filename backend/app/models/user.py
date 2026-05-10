@@ -14,7 +14,7 @@ from sqlalchemy import (
     Text,
     UniqueConstraint,
 )
-from sqlalchemy.dialects.postgresql import JSONB, UUID
+from sqlalchemy import JSON, Uuid as UUID
 
 from app.extensions import db
 from app.models.enums import TravelStyleEnum
@@ -35,7 +35,7 @@ class User(TimestampMixin, db.Model):
     bio = Column(Text, nullable=True)
     job_title = Column(String(100), nullable=True)
     company = Column(String(100), nullable=True)
-    interests = Column(JSONB, nullable=False, default=list)
+    interests = Column(JSON, nullable=False, default=list)
     travel_style = Column(
         Enum(TravelStyleEnum, name="travel_style_enum"), nullable=True
     )

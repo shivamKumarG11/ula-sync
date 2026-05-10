@@ -1,7 +1,7 @@
 import uuid
 
 from sqlalchemy import Column, ForeignKey, Index, PrimaryKeyConstraint
-from sqlalchemy.dialects.postgresql import TIMESTAMP, UUID
+from sqlalchemy import DateTime, Uuid as UUID
 
 from app.extensions import db
 
@@ -20,7 +20,7 @@ class SavedCity(db.Model):
         nullable=False,
     )
     saved_at = Column(
-        TIMESTAMP(timezone=True),
+        DateTime(timezone=True),
         nullable=False,
         default=lambda: __import__("datetime").datetime.now(
             __import__("datetime").timezone.utc

@@ -12,7 +12,7 @@ from sqlalchemy import (
     Text,
     UniqueConstraint,
 )
-from sqlalchemy.dialects.postgresql import JSONB, TIMESTAMP, UUID
+from sqlalchemy import JSON, DateTime, Uuid as UUID
 
 from app.extensions import db
 from app.models.enums import InvoiceCategoryEnum, InvoiceStatusEnum
@@ -37,8 +37,8 @@ class Invoice(TimestampMixin, db.Model):
     )
     tax_percent = Column(Numeric(5, 2), nullable=False, default=5.00)
     discount_amount = Column(Numeric(10, 2), nullable=False, default=0.00)
-    traveler_names = Column(JSONB, nullable=False, default=list)
-    paid_at = Column(TIMESTAMP(timezone=True), nullable=True)
+    traveler_names = Column(JSON, nullable=False, default=list)
+    paid_at = Column(DateTime(timezone=True), nullable=True)
 
     trip = db.relationship("Trip", back_populates="invoice")
     items = db.relationship(
@@ -83,7 +83,7 @@ class InvoiceItem(db.Model):
     amount = Column(Numeric(10, 2), nullable=False)
     order_index = Column(Integer, nullable=False)
     created_at = Column(
-        TIMESTAMP(timezone=True),
+        DateTime(timezone=True),
         nullable=False,
         default=lambda: datetime.now(timezone.utc),
     )

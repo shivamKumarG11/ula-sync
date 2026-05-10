@@ -12,7 +12,7 @@ from sqlalchemy import (
     Text,
     UniqueConstraint,
 )
-from sqlalchemy.dialects.postgresql import JSONB, UUID
+from sqlalchemy import JSON, Uuid as UUID
 
 from app.extensions import db
 from app.models.mixins import TimestampMixin
@@ -52,18 +52,8 @@ class Trip(TimestampMixin, db.Model):
         Index("trips_user_id_idx", "user_id"),
         Index("trips_user_start_date_idx", "user_id", "start_date"),
         Index("trips_slug_idx", "slug", unique=True),
-        Index(
-            "trips_share_token_idx",
-            "share_token",
-            unique=True,
-            postgresql_where="share_token IS NOT NULL",
-        ),
-        Index(
-            "trips_checklist_token_idx",
-            "checklist_share_token",
-            unique=True,
-            postgresql_where="checklist_share_token IS NOT NULL",
-        ),
+        Index("trips_share_token_idx", "share_token", unique=True),
+        Index("trips_checklist_token_idx", "checklist_share_token", unique=True),
     )
 
     def __repr__(self) -> str:

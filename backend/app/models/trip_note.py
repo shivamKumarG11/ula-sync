@@ -1,7 +1,7 @@
 import uuid
 
 from sqlalchemy import Column, ForeignKey, Index, String, Text
-from sqlalchemy.dialects.postgresql import UUID
+from sqlalchemy import Uuid as UUID
 
 from app.extensions import db
 from app.models.mixins import TimestampMixin

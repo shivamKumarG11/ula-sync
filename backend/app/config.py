@@ -1,6 +1,10 @@
 import os
 from datetime import timedelta
 
+_BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+_INSTANCE_DIR = os.path.join(_BASE_DIR, "instance")
+os.makedirs(_INSTANCE_DIR, exist_ok=True)
+
 
 class Config:
     SECRET_KEY = os.environ["SECRET_KEY"]
@@ -50,7 +54,8 @@ class Config:
 class DevelopmentConfig(Config):
     DEBUG = True
     SQLALCHEMY_DATABASE_URI = os.environ.get(
-        "DATABASE_URL", "postgresql://traveloop:traveloop@localhost:5432/traveloop"
+        "DATABASE_URL",
+        f"sqlite:///{os.path.join(_INSTANCE_DIR, 'traveloop.db')}",
     )
     SQLALCHEMY_ECHO = False  # set True to log SQL in dev if needed
 

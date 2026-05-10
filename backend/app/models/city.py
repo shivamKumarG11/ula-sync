@@ -12,7 +12,7 @@ from sqlalchemy import (
     Text,
     UniqueConstraint,
 )
-from sqlalchemy.dialects.postgresql import TIMESTAMP, UUID
+from sqlalchemy import DateTime, Uuid as UUID
 
 from app.extensions import db
 from app.models.enums import ExpenseTypeEnum
@@ -39,7 +39,7 @@ class City(db.Model):
     iata_code = Column(String(3), nullable=True)
     wikipedia_title = Column(String(200), nullable=True)
     created_at = Column(
-        TIMESTAMP(timezone=True),
+        DateTime(timezone=True),
         nullable=False,
         default=lambda: datetime.now(timezone.utc),
     )
