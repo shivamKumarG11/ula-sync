@@ -1,0 +1,263 @@
+{
+  "slug": "rishikesh",
+  "name": "Rishikesh",
+  "country": "India",
+  "country_code": "IN",
+  "timezone": "Asia/Kolkata",
+  "iata_code": "DED",
+  "popularity_score": 60,
+  "description": "Rishikesh is a spiritual and adventure-focused city located in the northern Indian state of Uttarakhand, along the banks of the sacred River Ganga. Known globally as the “Yoga Capital of the World,” the city attracts spiritual seekers, backpackers, wellness travelers, and adventure enthusiasts throughout the year. Rishikesh is famous for yoga retreats, meditation centers, river rafting, Himalayan landscapes, cafés, temples, and peaceful riverfront experiences. The city also serves as a gateway to the Garhwal Himalayas and major pilgrimage destinations like Kedarnath and Badrinath. Despite its spiritual identity, Rishikesh also offers thrilling adventure sports and vibrant café culture, making it one of India’s most versatile tourist destinations.\n\n---",
+  "cover_photo_url": "rishikesh\\rishikesh.jpg",
+  "map_link": "https://www.google.com/maps/search/?api=1&query=Rishikesh,+Uttarakhand,+India",
+  "best_time_months": "September to April",
+  "best_time_why": "The weather remains cool and comfortable during these months, making it ideal for yoga retreats, river rafting, trekking, sightseeing, camping, and outdoor activities. Monsoon months can affect rafting and adventure activities because of strong river currents and heavy rainfall.",
+  "cost_index_usd": 65.0,
+  "budget_breakdown": "A realistic traveler in Rishikesh can expect daily expenses around ₹7,000–₹8,000 ($80–$90), depending on accommodation type and adventure activities selected. Budget travelers staying in hostels and eating local meals can comfortably reduce costs. Adventure sports like rafting, bungee jumping, and camping packages form the largest part of the tourist budget. Riverside yoga retreats and wellness resorts can significantly increase accommodation expenses, especially during peak tourist seasons. Food costs remain moderate because the city has a mix of affordable local eateries and premium health-focused cafés. Local transportation is manageable since many attractions are located within short distances around Lakshman Jhula and Tapovan areas.\n\n---",
+  "cost_breakdown": [
+    {
+      "expense_type": "travel",
+      "cost_usd": 22.0,
+      "cost_local": 1850.0,
+      "local_currency": "USD",
+      "description": "Includes average domestic transportation costs such as trains, buses, or flights to nearby airports like Dehradun. International travelers should additionally consider visa, passport, and international airfare expenses."
+    },
+    {
+      "expense_type": "stay",
+      "cost_usd": 32.0,
+      "cost_local": 2700.0,
+      "local_currency": "USD",
+      "description": "Covers average accommodation costs for hostels, yoga retreats, riverside stays, or mid-range hotels. Luxury wellness resorts can significantly increase overall expenses."
+    },
+    {
+      "expense_type": "food",
+      "cost_usd": 10.0,
+      "cost_local": 850.0,
+      "local_currency": "USD",
+      "description": "Includes café meals, local North Indian food, snacks, juices, and beverages. Riverside cafés and international wellness cafés may cost slightly more."
+    },
+    {
+      "expense_type": "activities",
+      "cost_usd": 18.0,
+      "cost_local": 1500.0,
+      "local_currency": "USD",
+      "description": "Covers river rafting, bungee jumping, yoga sessions, trekking permits, camping experiences, and local attraction entry charges."
+    },
+    {
+      "expense_type": "local_transport",
+      "cost_usd": 5.0,
+      "cost_local": 420.0,
+      "local_currency": "USD",
+      "description": "Includes auto-rickshaws, local taxis, scooter rentals, and short-distance transportation within Rishikesh and nearby attractions."
+    }
+  ],
+  "food_items": [
+    {
+      "name": "Aloo Puri",
+      "description": "One of the most popular breakfast dishes in Rishikesh, consisting of spicy potato curry served with deep-fried puris. It is widely loved for its simple flavor and affordable local appeal.",
+      "image_url": null
+    },
+    {
+      "name": "Chole Bhature",
+      "description": "A famous North Indian dish served in many local eateries around the city. The spicy chickpea curry combined with fluffy fried bread makes it one of the most filling meals in Rishikesh.",
+      "image_url": null
+    },
+    {
+      "name": "Ayurvedic Thali",
+      "description": "Many wellness cafés and yoga retreats offer healthy Ayurvedic meals prepared using balanced nutrition principles, fresh vegetables, herbal ingredients, and minimal oil.",
+      "image_url": null
+    },
+    {
+      "name": "Masala Chai and Riverside Café Snacks",
+      "description": "Rishikesh is known for riverside cafés serving tea, pancakes, sandwiches, smoothies, and organic snacks with scenic Ganga views.",
+      "image_url": null
+    },
+    {
+      "name": "Garhwali Cuisine",
+      "description": "Traditional Uttarakhand dishes made using lentils, local herbs, and mountain spices are popular among travelers looking for authentic regional food experiences.",
+      "image_url": null
+    }
+  ],
+  "food_areas": [
+    {
+      "name": "Tapovan",
+      "specialty": "Riverside cafés, smoothie bowls, and yoga café culture",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Tapovan+Rishikesh"
+    },
+    {
+      "name": "Lakshman Jhula Area",
+      "specialty": "Street food, cafés, and vegetarian restaurants",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Lakshman+Jhula+Rishikesh"
+    },
+    {
+      "name": "Ram Jhula Area",
+      "specialty": "Traditional North Indian food and spiritual cafés",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Ram+Jhula+Rishikesh"
+    }
+  ],
+  "buy_items": [
+    {
+      "name": "Rudraksha Beads and Spiritual Jewelry",
+      "description": "Rishikesh is famous for spiritual items like Rudraksha malas, bracelets, and meditation accessories used in yoga and prayer practices.",
+      "image_url": null
+    },
+    {
+      "name": "Ayurvedic Products",
+      "description": "Herbal oils, organic soaps, herbal teas, incense sticks, and Ayurvedic wellness products are commonly purchased by tourists visiting yoga retreats.",
+      "image_url": null
+    },
+    {
+      "name": "Handmade Clothing and Yoga Wear",
+      "description": "Comfortable cotton clothes, meditation outfits, shawls, and yoga apparel are popular because of the city’s strong wellness culture.",
+      "image_url": null
+    },
+    {
+      "name": "Singing Bowls",
+      "description": "Tibetan singing bowls used for meditation and sound healing are one of the most unique souvenirs available in Rishikesh.",
+      "image_url": null
+    },
+    {
+      "name": "Handcrafted Wooden Artifacts",
+      "description": "Local handicraft shops sell carved wooden décor items, spiritual statues, and handmade souvenirs reflecting Himalayan culture.",
+      "image_url": null
+    },
+    {
+      "name": "Organic Herbal Tea and Spices",
+      "description": "Herbal teas and Himalayan spices are popular among tourists interested in wellness and organic food products.",
+      "image_url": null
+    }
+  ],
+  "shopping_markets": [
+    {
+      "name": "Lakshman Jhula Market",
+      "specialty": "Spiritual products, yoga items, and clothing",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Lakshman+Jhula+Market+Rishikesh"
+    },
+    {
+      "name": "Ram Jhula Market",
+      "specialty": "Ayurvedic items and handmade souvenirs",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Ram+Jhula+Market+Rishikesh"
+    },
+    {
+      "name": "Tapovan Market",
+      "specialty": "Organic products, cafés, and wellness shopping",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Tapovan+Market+Rishikesh"
+    }
+  ],
+  "travel_advisories": [
+    "Adventure activities like river rafting and bungee jumping should always be booked through certified operators because river conditions and safety standards can vary significantly.",
+    "Most temples, yoga centers, and spiritual locations maintain strict cultural rules regarding clothing and behavior, so modest dressing is recommended.",
+    "Monsoon season can affect trekking routes, rafting operations, and road conditions due to landslides and strong river currents.",
+    "Rishikesh is largely vegetarian because of its spiritual significance, and alcohol consumption is restricted in many areas of the city."
+  ],
+  "packing_checklist": {
+    "compulsory": [
+      "Government ID / Passport",
+      "Comfortable trekking or walking shoes",
+      "Mobile phone and charger",
+      "Light backpack",
+      "Reusable water bottle"
+    ],
+    "optional": [
+      "Yoga mat",
+      "Sunscreen",
+      "Power bank",
+      "Quick-dry clothing",
+      "Camera",
+      "Rain jacket",
+      "Basic medicines",
+      "Sunglasses"
+    ]
+  },
+  "locations": [
+    {
+      "name": "Lakshman Jhula",
+      "description": "Lakshman Jhula is one of Rishikesh’s most iconic suspension bridges built across the River Ganga. The bridge connects major spiritual and tourist areas while offering scenic Himalayan and river views. It is surrounded by cafés, temples, markets, and yoga centers, making it one of the busiest tourist zones in the city.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Lakshman+Jhula+Rishikesh",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Early morning or evening",
+      "cost_usd": 0.0,
+      "duration_hours": 1.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Riverside photography",
+        "Café hopping",
+        "Spiritual exploration"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Triveni Ghat",
+      "description": "Triveni Ghat is the most famous riverfront ghat in Rishikesh and is considered spiritually important by Hindu pilgrims. The evening Ganga Aarti ceremony attracts thousands of visitors daily and creates one of the city’s most peaceful cultural experiences.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Triveni+Ghat+Rishikesh",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Evening during Ganga Aarti",
+      "cost_usd": 0.0,
+      "duration_hours": 1.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Ganga Aarti experience",
+        "Riverfront meditation",
+        "Local food exploration"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "River Rafting in Rishikesh",
+      "description": "River rafting on the Ganga River is one of Rishikesh’s most famous adventure activities. The rafting routes range from beginner-friendly sections to challenging rapids, making the experience suitable for both casual travelers and adventure enthusiasts.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=River+Rafting+Rishikesh",
+      "opening_time": "7:00 AM",
+      "closing_time": "5:00 PM",
+      "best_visit_time": "October to June",
+      "cost_usd": 800.0,
+      "duration_hours": 3.5,
+      "booking_required": true,
+      "booking_link": "https://www.rishikeshrafting.in/",
+      "example_activities": [
+        "White water rafting",
+        "Cliff jumping",
+        "Riverside camping"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Neer Garh Waterfall",
+      "description": "Neer Garh Waterfall is a scenic natural waterfall located near the Lakshman Jhula area. It is surrounded by forested trails and rocky landscapes, making it a popular trekking and relaxation spot for nature lovers.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Neer+Garh+Waterfall+Rishikesh",
+      "opening_time": "8:00 AM",
+      "closing_time": "6:00 PM",
+      "best_visit_time": "Morning or post-monsoon season",
+      "cost_usd": 50.0,
+      "duration_hours": 2.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Waterfall trekking",
+        "Nature photography",
+        "Relaxation and swimming"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Parmarth Niketan Ashram",
+      "description": "Parmarth Niketan is one of the largest and most respected yoga and spiritual ashrams in Rishikesh. It attracts visitors from around the world for yoga programs, meditation retreats, spiritual workshops, and the famous evening Ganga Aarti.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Parmarth+Niketan+Rishikesh",
+      "opening_time": "6:00 AM",
+      "closing_time": "9:00 PM",
+      "best_visit_time": "Morning or evening during Aarti",
+      "cost_usd": 0.0,
+      "duration_hours": 2.0,
+      "booking_required": true,
+      "booking_link": "https://parmarth.org/",
+      "example_activities": [
+        "Yoga and meditation sessions",
+        "Evening Ganga Aarti",
+        "Spiritual workshops"
+      ],
+      "image_url": null
+    }
+  ]
+}

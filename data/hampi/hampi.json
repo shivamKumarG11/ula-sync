@@ -1,0 +1,263 @@
+{
+  "slug": "hampi",
+  "name": "Hampi",
+  "country": "India",
+  "country_code": "IN",
+  "timezone": "Asia/Kolkata",
+  "iata_code": "HBX",
+  "popularity_score": 55,
+  "description": "Hampi is one of India’s most extraordinary historical and archaeological destinations located in the state of Karnataka. Once the grand capital of the Vijayanagara Empire, Hampi is now a UNESCO World Heritage Site famous for its massive temple complexes, ancient ruins, giant boulder landscapes, riverbanks, and rich South Indian history. The destination attracts backpackers, historians, photographers, spiritual travelers, and architecture enthusiasts from around the world. Hampi offers a surreal atmosphere where centuries-old ruins blend with dramatic rocky terrain and peaceful village life. The city is also known for its sunrise viewpoints, cycling routes, coracle rides, temple architecture, and relaxed backpacker culture, making it one of India’s most unique travel experiences.\n\n---",
+  "cover_photo_url": "hampi\\hampi.jpg",
+  "map_link": "https://www.google.com/maps/search/?api=1&query=Hampi,+Karnataka,+India",
+  "best_time_months": "October to February",
+  "best_time_why": "The weather remains pleasant and suitable for exploring ruins, cycling, trekking, temple visits, and outdoor sightseeing. Summers in Hampi become extremely hot and dry, making daytime exploration difficult.",
+  "cost_index_usd": 59.0,
+  "budget_breakdown": "A realistic traveler in Hampi can expect daily expenses around ₹6,500–₹7,500 ($75–$90), depending on accommodation style and sightseeing preferences. Budget backpackers can significantly reduce expenses by staying in hostels and renting bicycles or scooters for transportation. Monument entry fees are relatively affordable, although hiring local guides can slightly increase daily costs. Food expenses remain moderate because Hampi offers a combination of affordable South Indian eateries and tourist cafés serving international cuisine. Most sightseeing involves outdoor exploration across large archaeological zones, making transportation rentals useful for covering multiple locations efficiently. Travelers can reduce costs further by staying slightly outside the main tourist areas.\n\n---",
+  "cost_breakdown": [
+    {
+      "expense_type": "travel",
+      "cost_usd": 20.0,
+      "cost_local": 1700.0,
+      "local_currency": "USD",
+      "description": "Includes trains, buses, or domestic travel to nearby transport hubs like Hospet. International travelers should additionally consider visa, passport, and international airfare expenses."
+    },
+    {
+      "expense_type": "stay",
+      "cost_usd": 32.0,
+      "cost_local": 2700.0,
+      "local_currency": "USD",
+      "description": "Covers guesthouses, backpacker hostels, riverside stays, or comfortable mid-range hotels around Hampi and nearby Hospet."
+    },
+    {
+      "expense_type": "food",
+      "cost_usd": 10.0,
+      "cost_local": 850.0,
+      "local_currency": "USD",
+      "description": "Includes café meals, South Indian food, snacks, and moderate dining experiences near tourist zones."
+    },
+    {
+      "expense_type": "activities",
+      "cost_usd": 12.0,
+      "cost_local": 1000.0,
+      "local_currency": "USD",
+      "description": "Covers monument tickets, guided tours, coracle rides, cycling rentals, and local sightseeing experiences."
+    },
+    {
+      "expense_type": "local_transport",
+      "cost_usd": 5.0,
+      "cost_local": 400.0,
+      "local_currency": "USD",
+      "description": "Includes auto-rickshaws, scooter rentals, bicycles, and short-distance transportation between ruins and viewpoints."
+    }
+  ],
+  "food_items": [
+    {
+      "name": "South Indian Thali",
+      "description": "Traditional Karnataka-style meals served with rice, curries, sambar, chutneys, vegetables, and papad. These meals are affordable and widely available across Hampi.",
+      "image_url": null
+    },
+    {
+      "name": "Masala Dosa",
+      "description": "Crispy rice crepes filled with spiced potato mixture and served with chutneys and sambar. It is one of the region’s most popular breakfast dishes.",
+      "image_url": null
+    },
+    {
+      "name": "Banana Pancakes",
+      "description": "Hampi’s backpacker café culture has made banana pancakes one of the most famous café foods among international travelers.",
+      "image_url": null
+    },
+    {
+      "name": "Filter Coffee",
+      "description": "Traditional South Indian filter coffee is widely enjoyed throughout Hampi’s cafés and local restaurants.",
+      "image_url": null
+    },
+    {
+      "name": "Israeli and Continental Café Food",
+      "description": "Because of Hampi’s global backpacker popularity, many cafés serve shakshuka, hummus, pasta, smoothies, and international comfort foods.",
+      "image_url": null
+    }
+  ],
+  "food_areas": [
+    {
+      "name": "Hampi Bazaar",
+      "specialty": "South Indian food and tourist cafés",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Hampi+Bazaar"
+    },
+    {
+      "name": "Virupapur Gadde (Hippie Island Area)",
+      "specialty": "Backpacker cafés and international cuisine",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Virupapur+Gadde+Hampi"
+    },
+    {
+      "name": "Kamalapura Area",
+      "specialty": "Local Karnataka meals and affordable eateries",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Kamalapura+Hampi"
+    }
+  ],
+  "buy_items": [
+    {
+      "name": "Stone Carvings and Sculptures",
+      "description": "Hampi is famous for handcrafted stone sculptures inspired by temple art and Vijayanagara architecture.",
+      "image_url": null
+    },
+    {
+      "name": "Handmade Jewelry and Accessories",
+      "description": "Backpacker markets sell handmade necklaces, bracelets, rings, and bohemian accessories popular among travelers.",
+      "image_url": null
+    },
+    {
+      "name": "Traditional Karnataka Handicrafts",
+      "description": "Wooden décor items, local crafts, and artistic souvenirs reflecting Karnataka’s heritage are widely available.",
+      "image_url": null
+    },
+    {
+      "name": "Cotton Clothing and Hippie Fashion",
+      "description": "Loose cotton clothing, handmade bags, scarves, and bohemian-style apparel are common purchases in Hampi’s markets.",
+      "image_url": null
+    },
+    {
+      "name": "Musical Instruments",
+      "description": "Handmade drums, flutes, and folk instruments are sold in several local artisan shops around Hampi.",
+      "image_url": null
+    },
+    {
+      "name": "Postcards and Historical Artwork",
+      "description": "Paintings, sketches, and photography prints inspired by Hampi’s ruins are popular collectible souvenirs.",
+      "image_url": null
+    }
+  ],
+  "shopping_markets": [
+    {
+      "name": "Hampi Bazaar",
+      "specialty": "Souvenirs, handicrafts, and jewelry",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Hampi+Bazaar+Market"
+    },
+    {
+      "name": "Virupapur Gadde Market",
+      "specialty": "Clothing, accessories, and café shopping",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Virupapur+Gadde+Market"
+    },
+    {
+      "name": "Kamalapura Local Shops",
+      "specialty": "Traditional crafts and local products",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Kamalapura+Market+Hampi"
+    }
+  ],
+  "travel_advisories": [
+    "Hampi involves extensive walking, climbing, and outdoor exploration across rocky landscapes, therefore comfortable walking shoes are extremely important.",
+    "Summers become extremely hot during daytime, so carrying water, sunscreen, and avoiding afternoon exploration is strongly recommended.",
+    "Some ruins and viewpoints are located far apart, therefore renting bicycles or scooters can make sightseeing much more convenient.",
+    "Mobile networks and ATM availability can occasionally become limited in certain backpacker-side areas, so carrying sufficient cash is advisable."
+  ],
+  "packing_checklist": {
+    "compulsory": [
+      "Government ID / Passport",
+      "Comfortable walking or trekking shoes",
+      "Mobile phone and charger",
+      "Water bottle",
+      "Lightweight breathable clothing"
+    ],
+    "optional": [
+      "Sunscreen",
+      "Camera",
+      "Power bank",
+      "Sunglasses",
+      "Hat or cap",
+      "Small backpack",
+      "Flashlight",
+      "Basic medicines"
+    ]
+  },
+  "locations": [
+    {
+      "name": "Virupaksha Temple",
+      "description": "Virupaksha Temple is Hampi’s oldest functioning temple and one of the most important spiritual and architectural landmarks from the Vijayanagara Empire period.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Virupaksha+Temple+Hampi",
+      "opening_time": "6:00 AM",
+      "closing_time": "6:00 PM",
+      "best_visit_time": "Morning or sunset",
+      "cost_usd": 0.0,
+      "duration_hours": 1.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Temple architecture exploration",
+        "Spiritual experiences",
+        "Photography and cultural walks"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Vittala Temple and Stone Chariot",
+      "description": "Vittala Temple is Hampi’s most iconic archaeological complex famous for its musical pillars and the world-famous stone chariot symbolizing Vijayanagara architectural excellence.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Vittala+Temple+Hampi",
+      "opening_time": "8:30 AM",
+      "closing_time": "5:30 PM",
+      "best_visit_time": "Morning",
+      "cost_usd": 600.0,
+      "duration_hours": 3.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Stone chariot photography",
+        "Temple ruin exploration",
+        "Guided historical tours"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Matanga Hill",
+      "description": "Matanga Hill is one of Hampi’s most famous viewpoints offering panoramic sunrise and sunset views across ruins, temples, rivers, and rocky landscapes.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Matanga+Hill+Hampi",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Sunrise or sunset",
+      "cost_usd": 0.0,
+      "duration_hours": 2.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Sunrise trekking",
+        "Landscape photography",
+        "Meditation and relaxation"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Lotus Mahal",
+      "description": "Lotus Mahal is a unique Indo-Islamic architectural structure located within the Zenana Enclosure and is famous for its symmetrical lotus-inspired design.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Lotus+Mahal+Hampi",
+      "opening_time": "8:00 AM",
+      "closing_time": "6:00 PM",
+      "best_visit_time": "Morning or evening",
+      "cost_usd": 0.0,
+      "duration_hours": 1.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Architectural exploration",
+        "Historical sightseeing",
+        "Photography sessions"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Tungabhadra River and Coracle Rides",
+      "description": "The Tungabhadra River flows through Hampi and plays a major role in the region’s scenic beauty and historical significance. Traditional circular coracle boats are one of Hampi’s most unique experiences.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Tungabhadra+River+Hampi",
+      "opening_time": "7:00 AM",
+      "closing_time": "6:00 PM",
+      "best_visit_time": "Morning or sunset",
+      "cost_usd": 100.0,
+      "duration_hours": 1.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Coracle boat rides",
+        "Riverside photography",
+        "Relaxation and sightseeing"
+      ],
+      "image_url": null
+    }
+  ]
+}

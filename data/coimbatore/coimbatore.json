@@ -1,0 +1,263 @@
+{
+  "slug": "coimbatore",
+  "name": "Coimbatore",
+  "country": "India",
+  "country_code": "IN",
+  "timezone": "Asia/Kolkata",
+  "iata_code": "CJB",
+  "popularity_score": 45,
+  "description": "Coimbatore is one of Tamil Nadu’s major industrial and educational cities, located near the Western Ghats in South India. Often called the “Manchester of South India,” the city is famous for its textile industry, pleasant climate, spiritual destinations, engineering institutions, and growing urban lifestyle. Coimbatore also serves as an important gateway to hill stations like Ooty and Valparai. The city combines modern infrastructure, traditional Tamil culture, temples, scenic mountain views, and wellness tourism. Travelers visit Coimbatore for spiritual experiences, nature exploration, shopping, South Indian food, yoga retreats, and peaceful short trips around the Nilgiri foothills.\n\n---",
+  "cover_photo_url": "coimbatore\\coimbatore.jpg",
+  "map_link": "https://www.google.com/maps/search/?api=1&query=Coimbatore,+Tamil+Nadu,+India",
+  "best_time_months": "October to March",
+  "best_time_why": "The weather remains pleasant and comfortable during these months, making it ideal for temple visits, sightseeing, road trips, trekking, and exploring nearby hill stations. Summers can become warm during afternoon hours.",
+  "cost_index_usd": 59.0,
+  "budget_breakdown": "A realistic traveler in Coimbatore can expect daily expenses around ₹6,000–₹7,000 ($70–$85), depending on accommodation type and nearby excursions. The city is relatively affordable compared to larger Indian metropolitan cities while still offering good-quality hotels and restaurants. Food costs remain economical because of the abundance of local South Indian eateries and cafés. Transportation is manageable through buses, taxis, and app-based rides, although private cabs may be needed for nearby hill station visits. Most city attractions have minimal entry costs, making Coimbatore suitable for budget travelers, spiritual tourism, and short weekend trips.\n\n---",
+  "cost_breakdown": [
+    {
+      "expense_type": "travel",
+      "cost_usd": 18.0,
+      "cost_local": 1500.0,
+      "local_currency": "USD",
+      "description": "Includes trains, buses, domestic flights, or road transportation within Tamil Nadu. International travelers should additionally consider visa, passport, and international airfare expenses."
+    },
+    {
+      "expense_type": "stay",
+      "cost_usd": 35.0,
+      "cost_local": 3000.0,
+      "local_currency": "USD",
+      "description": "Covers business hotels, boutique stays, or comfortable mid-range accommodations within Coimbatore city and nearby scenic areas."
+    },
+    {
+      "expense_type": "food",
+      "cost_usd": 9.0,
+      "cost_local": 750.0,
+      "local_currency": "USD",
+      "description": "Includes South Indian meals, snacks, café visits, and moderate restaurant dining experiences."
+    },
+    {
+      "expense_type": "activities",
+      "cost_usd": 10.0,
+      "cost_local": 850.0,
+      "local_currency": "USD",
+      "description": "Covers temple visits, museum entry fees, nearby sightseeing, and spiritual or nature-based attractions."
+    },
+    {
+      "expense_type": "local_transport",
+      "cost_usd": 5.0,
+      "cost_local": 400.0,
+      "local_currency": "USD",
+      "description": "Includes taxis, buses, auto-rickshaws, app-based rides, and short-distance transportation throughout the city."
+    }
+  ],
+  "food_items": [
+    {
+      "name": "Kongunadu Chicken Curry",
+      "description": "A famous regional dish from the Kongu Nadu region prepared using aromatic spices, coconut, curry leaves, and traditional Tamil cooking techniques.",
+      "image_url": null
+    },
+    {
+      "name": "Ghee Roast Dosa",
+      "description": "Crispy dosa prepared with generous amounts of ghee and served with chutneys and sambar. It is one of the city’s most popular breakfast items.",
+      "image_url": null
+    },
+    {
+      "name": "Filter Coffee",
+      "description": "Coimbatore is famous for strong South Indian filter coffee served in traditional steel tumblers.",
+      "image_url": null
+    },
+    {
+      "name": "Arisi Paruppu Sadam",
+      "description": "A traditional Kongu Nadu rice and lentil dish flavored with ghee, spices, and local seasonings.",
+      "image_url": null
+    },
+    {
+      "name": "Kari Dosa",
+      "description": "A meat-based dosa dish topped with spicy minced meat and eggs, highly popular in Tamil Nadu cuisine.",
+      "image_url": null
+    }
+  ],
+  "food_areas": [
+    {
+      "name": "RS Puram",
+      "specialty": "Cafés, South Indian restaurants, and desserts",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=RS+Puram+Coimbatore"
+    },
+    {
+      "name": "Gandhipuram",
+      "specialty": "Traditional Tamil food and local eateries",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Gandhipuram+Coimbatore"
+    },
+    {
+      "name": "Race Course Road",
+      "specialty": "Premium dining, cafés, and evening food spots",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Race+Course+Road+Coimbatore"
+    }
+  ],
+  "buy_items": [
+    {
+      "name": "Kanchipuram and Cotton Sarees",
+      "description": "Coimbatore is an important textile city known for high-quality cotton sarees, silk fabrics, and traditional South Indian clothing.",
+      "image_url": null
+    },
+    {
+      "name": "Filter Coffee Powder",
+      "description": "Freshly blended South Indian coffee powder is one of the city’s most popular edible purchases.",
+      "image_url": null
+    },
+    {
+      "name": "Handloom Textiles",
+      "description": "Towels, bedsheets, cotton garments, and woven fabrics from Coimbatore’s textile markets are highly popular.",
+      "image_url": null
+    },
+    {
+      "name": "Traditional Brass and Metal Products",
+      "description": "Decorative lamps, utensils, and temple-inspired metal crafts are common cultural souvenirs.",
+      "image_url": null
+    },
+    {
+      "name": "Homemade Snacks and Sweets",
+      "description": "Murukku, mixture, laddus, and traditional Tamil snacks are widely purchased by visitors.",
+      "image_url": null
+    },
+    {
+      "name": "Ayurvedic and Herbal Products",
+      "description": "Wellness products, herbal oils, and natural remedies are available because of Coimbatore’s wellness and yoga culture.",
+      "image_url": null
+    }
+  ],
+  "shopping_markets": [
+    {
+      "name": "Oppanakara Street",
+      "specialty": "Textiles, sarees, and wholesale shopping",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Oppanakara+Street+Coimbatore"
+    },
+    {
+      "name": "Brookefields Mall Area",
+      "specialty": "Modern shopping and branded stores",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Brookefields+Mall+Coimbatore"
+    },
+    {
+      "name": "RS Puram Market",
+      "specialty": "Clothing, local products, and cafés",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=RS+Puram+Market+Coimbatore"
+    }
+  ],
+  "travel_advisories": [
+    "Coimbatore experiences warm daytime temperatures for most of the year, therefore lightweight clothing and hydration are recommended.",
+    "Nearby hill station trips to places like Valparai and Ooty may involve long road journeys with winding mountain roads, so travelers prone to motion sickness should prepare accordingly.",
+    "Temples and spiritual centers often require modest clothing and footwear removal before entry, therefore culturally appropriate attire is advisable.",
+    "Traffic congestion can increase during business hours in central commercial areas, so early morning sightseeing is often more convenient."
+  ],
+  "packing_checklist": {
+    "compulsory": [
+      "Government ID / Passport",
+      "Comfortable walking shoes",
+      "Mobile phone and charger",
+      "Lightweight cotton clothing",
+      "Water bottle"
+    ],
+    "optional": [
+      "Sunglasses",
+      "Camera",
+      "Power bank",
+      "Small backpack",
+      "Umbrella",
+      "Basic medicines",
+      "Light jacket for nearby hill stations",
+      "Snacks for road trips"
+    ]
+  },
+  "locations": [
+    {
+      "name": "Adiyogi Shiva Statue",
+      "description": "The Adiyogi Shiva Statue is one of Coimbatore’s most famous landmarks located at the Isha Yoga Center. The massive 112-foot statue symbolizes inner transformation and spiritual awareness.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Adiyogi+Shiva+Statue+Coimbatore",
+      "opening_time": "6:00 AM",
+      "closing_time": "8:00 PM",
+      "best_visit_time": "Evening for light and sound atmosphere",
+      "cost_usd": 0.0,
+      "duration_hours": 3.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Spiritual exploration",
+        "Photography sessions",
+        "Evening light experiences"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Marudhamalai Temple",
+      "description": "Marudhamalai Temple is a famous hilltop Murugan temple located on the outskirts of Coimbatore and known for its spiritual importance and scenic mountain surroundings.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Marudhamalai+Temple+Coimbatore",
+      "opening_time": "5:30 AM",
+      "closing_time": "8:30 PM",
+      "best_visit_time": "Morning or evening",
+      "cost_usd": 0.0,
+      "duration_hours": 2.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Temple darshan and rituals",
+        "Hilltop sightseeing",
+        "Spiritual photography"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Isha Yoga Center",
+      "description": "Isha Yoga Center is a globally recognized spiritual and wellness center founded by Sadhguru. The center attracts visitors for yoga programs, meditation, architecture, and peaceful surroundings.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Isha+Yoga+Center+Coimbatore",
+      "opening_time": "6:00 AM",
+      "closing_time": "8:00 PM",
+      "best_visit_time": "Early morning or evening",
+      "cost_usd": 0.0,
+      "duration_hours": 4.0,
+      "booking_required": false,
+      "booking_link": "https://isha.sadhguru.org/",
+      "example_activities": [
+        "Meditation experiences",
+        "Dhyanalinga exploration",
+        "Yoga and wellness programs"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "VOC Park and Zoo",
+      "description": "VOC Park and Zoo is a family-friendly attraction in central Coimbatore featuring a small zoo, children’s park, gardens, and recreational activities.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=VOC+Park+and+Zoo+Coimbatore",
+      "opening_time": "10:00 AM",
+      "closing_time": "5:30 PM",
+      "best_visit_time": "Evening",
+      "cost_usd": 50.0,
+      "duration_hours": 1.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Family recreation",
+        "Zoo exploration",
+        "Children’s activities"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Siruvani Waterfalls and Dam",
+      "description": "Siruvani is famous for its scenic waterfalls, forest landscapes, and reservoir known for having some of the sweetest water in India. It is located near the Western Ghats outside Coimbatore.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Siruvani+Waterfalls+Coimbatore",
+      "opening_time": "9:00 AM",
+      "closing_time": "4:00 PM",
+      "best_visit_time": "Post-monsoon season or morning",
+      "cost_usd": 100.0,
+      "duration_hours": 4.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Nature and waterfall exploration",
+        "Photography and sightseeing",
+        "Relaxation and eco-tourism"
+      ],
+      "image_url": null
+    }
+  ]
+}

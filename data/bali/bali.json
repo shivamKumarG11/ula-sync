@@ -1,0 +1,263 @@
+{
+  "slug": "bali",
+  "name": "Bali",
+  "country": "Indonesia",
+  "country_code": "ID",
+  "timezone": "Asia/Makassar",
+  "iata_code": "DPS",
+  "popularity_score": 90,
+  "description": "Bali is one of the world’s most famous tropical island destinations, located in Indonesia and known for its beaches, rice terraces, temples, waterfalls, volcanoes, and vibrant cultural traditions. The island attracts travelers from around the world for surfing, yoga retreats, luxury resorts, nightlife, spiritual experiences, and scenic landscapes. Bali combines natural beauty, Hindu culture, wellness tourism, and modern café lifestyles, making it suitable for backpackers, couples, solo travelers, digital nomads, and luxury tourists alike. The island is also famous for traditional Balinese dance, artisan crafts, beach clubs, jungle resorts, and breathtaking sunsets. From peaceful mountain villages to energetic coastal nightlife, Bali offers diverse experiences for every type of traveler.\n\n---",
+  "cover_photo_url": "bali\\bali.jpg",
+  "map_link": "https://www.google.com/maps/search/?api=1&query=Bali,+Indonesia",
+  "best_time_months": "April to October",
+  "best_time_why": "These months fall during Bali’s dry season, offering sunny weather, lower humidity, calmer seas, and ideal conditions for beach activities, trekking, sightseeing, and outdoor adventures.",
+  "cost_index_usd": 177.0,
+  "budget_breakdown": "A realistic traveler in Bali can expect daily expenses around IDR 4,000,000–4,500,000 ($250–$280), depending on accommodation style and activity choices. Bali remains more affordable compared to many global beach destinations, especially for food and local transportation. Accommodation costs vary greatly between backpacker hostels, jungle villas, and luxury beachfront resorts. Renting scooters is one of the cheapest and most convenient ways to explore the island, although private drivers are commonly used for longer sightseeing routes. Adventure activities such as scuba diving, surfing lessons, volcano trekking, and beach clubs can moderately increase daily expenses. Travelers can reduce costs significantly by staying outside luxury tourist zones like Seminyak and Nusa Dua.\n\n---",
+  "cost_breakdown": [
+    {
+      "expense_type": "travel",
+      "cost_usd": 85.0,
+      "cost_local": 1350000.0,
+      "local_currency": "IDR",
+      "description": "Includes domestic flights within Indonesia, airport transfers, ferries, or regional transportation. International travelers should additionally consider visa requirements, passport expenses, and international airfare costs."
+    },
+    {
+      "expense_type": "stay",
+      "cost_usd": 110.0,
+      "cost_local": 1750000.0,
+      "local_currency": "IDR",
+      "description": "Covers boutique villas, beach resorts, guesthouses, or comfortable mid-range accommodations in popular tourist districts. Luxury resorts can significantly increase expenses."
+    },
+    {
+      "expense_type": "food",
+      "cost_usd": 22.0,
+      "cost_local": 350000.0,
+      "local_currency": "IDR",
+      "description": "Includes Balinese meals, café visits, smoothies, seafood dining, and moderate restaurant experiences."
+    },
+    {
+      "expense_type": "activities",
+      "cost_usd": 35.0,
+      "cost_local": 560000.0,
+      "local_currency": "IDR",
+      "description": "Covers temple tickets, waterfall entry fees, surfing lessons, trekking tours, and cultural experiences."
+    },
+    {
+      "expense_type": "local_transport",
+      "cost_usd": 10.0,
+      "cost_local": 160000.0,
+      "local_currency": "IDR",
+      "description": "Includes scooter rentals, taxis, app-based rides, and short-distance transportation around the island."
+    }
+  ],
+  "food_items": [
+    {
+      "name": "Nasi Goreng",
+      "description": "Indonesia’s famous fried rice dish prepared with vegetables, meat, eggs, and local spices. It is one of Bali’s most common and affordable meals.",
+      "image_url": null
+    },
+    {
+      "name": "Babi Guling",
+      "description": "Traditional Balinese roasted pork prepared with spices and herbs. It is one of the island’s most famous ceremonial and local dishes.",
+      "image_url": null
+    },
+    {
+      "name": "Satay (Sate)",
+      "description": "Grilled skewered meat served with peanut sauce and rice cakes, commonly available at local food stalls and restaurants.",
+      "image_url": null
+    },
+    {
+      "name": "Mie Goreng",
+      "description": "Stir-fried noodles mixed with vegetables, eggs, seafood, or meat, often served as a quick local meal.",
+      "image_url": null
+    },
+    {
+      "name": "Smoothie Bowls and Café Food",
+      "description": "Bali’s café culture is globally famous for smoothie bowls, vegan food, fresh juices, healthy breakfasts, and aesthetic brunch cafés.",
+      "image_url": null
+    }
+  ],
+  "food_areas": [
+    {
+      "name": "Ubud",
+      "specialty": "Healthy cafés, Balinese cuisine, and vegan food",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Ubud+Bali"
+    },
+    {
+      "name": "Seminyak",
+      "specialty": "Beachfront dining, cafés, and international cuisine",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Seminyak+Bali"
+    },
+    {
+      "name": "Jimbaran Bay",
+      "specialty": "Fresh seafood and sunset dining",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Jimbaran+Bay+Bali"
+    }
+  ],
+  "buy_items": [
+    {
+      "name": "Handmade Balinese Silver Jewelry",
+      "description": "Bali is famous for handcrafted silver rings, necklaces, and artisan jewelry inspired by Balinese culture.",
+      "image_url": null
+    },
+    {
+      "name": "Wood Carvings and Sculptures",
+      "description": "Handmade wooden statues, masks, and decorative carvings are among Bali’s most iconic cultural souvenirs.",
+      "image_url": null
+    },
+    {
+      "name": "Batik Clothing and Sarongs",
+      "description": "Traditional Indonesian fabrics, beachwear, and colorful batik sarongs are highly popular among tourists.",
+      "image_url": null
+    },
+    {
+      "name": "Essential Oils and Spa Products",
+      "description": "Bali’s wellness culture makes organic oils, soaps, aromatherapy products, and spa items popular purchases.",
+      "image_url": null
+    },
+    {
+      "name": "Coffee and Luwak Coffee",
+      "description": "Bali produces famous Indonesian coffee varieties including kopi luwak, one of the world’s most unique coffee products.",
+      "image_url": null
+    },
+    {
+      "name": "Dreamcatchers and Handmade Décor",
+      "description": "Bohemian home décor, dreamcatchers, bamboo crafts, and handmade decorative items are commonly purchased souvenirs.",
+      "image_url": null
+    }
+  ],
+  "shopping_markets": [
+    {
+      "name": "Ubud Art Market",
+      "specialty": "Handicrafts, paintings, and traditional souvenirs",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Ubud+Art+Market"
+    },
+    {
+      "name": "Seminyak Shopping Streets",
+      "specialty": "Fashion boutiques and lifestyle shopping",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Seminyak+Shopping+Area"
+    },
+    {
+      "name": "Sukawati Art Market",
+      "specialty": "Affordable handicrafts and local products",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Sukawati+Art+Market+Bali"
+    }
+  ],
+  "travel_advisories": [
+    "Bali experiences tropical weather with sudden rain showers, therefore lightweight clothing and rain protection are highly recommended.",
+    "Scooter rentals are extremely common across Bali, but travelers should carry valid international driving permits and practice road safety carefully.",
+    "Certain temples require modest clothing and sarongs for entry, so culturally appropriate attire should be respected.",
+    "Popular beach and nightlife areas can become crowded during weekends and holiday seasons, especially around Seminyak and Canggu."
+  ],
+  "packing_checklist": {
+    "compulsory": [
+      "Passport and travel documents",
+      "Lightweight breathable clothing",
+      "Comfortable sandals or walking shoes",
+      "Mobile phone and charger",
+      "Sunscreen"
+    ],
+    "optional": [
+      "Swimwear",
+      "Camera",
+      "Power bank",
+      "Sunglasses",
+      "Rain jacket or umbrella",
+      "Reusable water bottle",
+      "Small backpack",
+      "Mosquito repellent"
+    ]
+  },
+  "locations": [
+    {
+      "name": "Ubud",
+      "description": "Ubud is Bali’s cultural and spiritual center known for rice terraces, yoga retreats, art galleries, jungle resorts, and traditional Balinese culture.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Ubud+Bali",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Morning or evening",
+      "cost_usd": 0.0,
+      "duration_hours": 8.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Rice terrace exploration",
+        "Yoga and wellness experiences",
+        "Café hopping and cultural exploration"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Tanah Lot Temple",
+      "description": "Tanah Lot is one of Bali’s most iconic sea temples located on a rocky offshore formation and famous for dramatic ocean sunsets.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Tanah+Lot+Temple+Bali",
+      "opening_time": "7:00 AM",
+      "closing_time": "7:00 PM",
+      "best_visit_time": "Sunset",
+      "cost_usd": 75.0,
+      "duration_hours": 2.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Sunset photography",
+        "Temple and cultural exploration",
+        "Coastal sightseeing"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Tegallalang Rice Terraces",
+      "description": "The Tegallalang Rice Terraces are among Bali’s most photographed landscapes known for layered green rice fields and traditional Balinese irrigation systems.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Tegallalang+Rice+Terraces+Bali",
+      "opening_time": "6:00 AM",
+      "closing_time": "6:00 PM",
+      "best_visit_time": "Early morning",
+      "cost_usd": 50.0,
+      "duration_hours": 2.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Scenic walking trails",
+        "Swing experiences",
+        "Cultural photography"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Uluwatu Temple",
+      "description": "Uluwatu Temple is a cliffside Balinese Hindu temple famous for ocean views, dramatic sunsets, and traditional Kecak dance performances.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Uluwatu+Temple+Bali",
+      "opening_time": "7:00 AM",
+      "closing_time": "7:00 PM",
+      "best_visit_time": "Evening during sunset",
+      "cost_usd": 50.0,
+      "duration_hours": 3.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Cliffside sunset viewing",
+        "Kecak dance performances",
+        "Ocean photography"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Seminyak Beach",
+      "description": "Seminyak Beach is one of Bali’s most popular luxury beach destinations known for beach clubs, surfing, nightlife, cafés, and sunset experiences.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Seminyak+Beach+Bali",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Sunset or evening",
+      "cost_usd": 0.0,
+      "duration_hours": 4.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Beach club experiences",
+        "Surfing and beach activities",
+        "Nightlife exploration"
+      ],
+      "image_url": null
+    }
+  ]
+}

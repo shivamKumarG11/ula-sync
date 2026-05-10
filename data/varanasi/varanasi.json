@@ -1,0 +1,263 @@
+{
+  "slug": "varanasi",
+  "name": "Varanasi",
+  "country": "India",
+  "country_code": "IN",
+  "timezone": "Asia/Kolkata",
+  "iata_code": "VNS",
+  "popularity_score": 70,
+  "description": "Varanasi, also known as Kashi or Banaras, is one of the world’s oldest continuously inhabited cities and one of the holiest spiritual destinations in India. Located on the banks of the sacred River Ganga in Uttar Pradesh, the city is deeply associated with Hindu culture, rituals, temples, and ancient traditions. Varanasi attracts pilgrims, spiritual seekers, photographers, historians, and travelers from around the world who come to experience its ghats, temples, Ganga Aarti ceremonies, and unique cultural atmosphere. The city is famous for its narrow alleys, traditional music, silk weaving industry, street food, and spiritual energy. Despite being crowded and chaotic, Varanasi offers one of the most authentic and culturally immersive travel experiences in India.\n\n---",
+  "cover_photo_url": "varanasi\\varanasi.jpg",
+  "map_link": "https://www.google.com/maps/search/?api=1&query=Varanasi,+Uttar+Pradesh,+India",
+  "best_time_months": "October to March",
+  "best_time_why": "The weather remains cooler and more comfortable during these months, making it ideal for temple visits, boat rides, walking through the ghats, and attending evening Ganga Aarti ceremonies. Summers can become extremely hot and humid.",
+  "cost_index_usd": 53.0,
+  "budget_breakdown": "A realistic traveler in Varanasi can comfortably manage daily expenses around ₹6,000–₹7,000 ($70–$80), depending on accommodation style and sightseeing preferences. Budget travelers staying in hostels or guesthouses near the ghats can significantly reduce expenses. Food remains one of the cheapest aspects of traveling in Varanasi because authentic local meals and snacks are widely available at affordable prices. Boat rides on the Ganga River, guided tours, and cultural performances contribute moderately to daily activity costs. Transportation expenses are relatively low because most major attractions are located close to the old city and ghats. Heritage hotels overlooking the river can substantially increase accommodation costs during peak pilgrimage seasons.\n\n---",
+  "cost_breakdown": [
+    {
+      "expense_type": "travel",
+      "cost_usd": 18.0,
+      "cost_local": 1500.0,
+      "local_currency": "USD",
+      "description": "Includes average train, bus, or domestic flight transportation costs within India. International visitors should additionally consider visa, passport, and international airfare expenses."
+    },
+    {
+      "expense_type": "stay",
+      "cost_usd": 30.0,
+      "cost_local": 2500.0,
+      "local_currency": "USD",
+      "description": "Covers average guesthouses, riverside hotels, or mid-range accommodations near the ghats. Luxury heritage hotels can significantly increase the budget."
+    },
+    {
+      "expense_type": "food",
+      "cost_usd": 8.0,
+      "cost_local": 700.0,
+      "local_currency": "USD",
+      "description": "Includes local street food, café meals, snacks, sweets, and traditional North Indian vegetarian meals available throughout the city."
+    },
+    {
+      "expense_type": "activities",
+      "cost_usd": 10.0,
+      "cost_local": 850.0,
+      "local_currency": "USD",
+      "description": "Covers temple visits, guided heritage walks, boat rides, museums, and cultural programs around the ghats and historical sites."
+    },
+    {
+      "expense_type": "local_transport",
+      "cost_usd": 5.0,
+      "cost_local": 400.0,
+      "local_currency": "USD",
+      "description": "Includes auto-rickshaws, cycle-rickshaws, e-rickshaws, and short-distance transportation within Varanasi city."
+    }
+  ],
+  "food_items": [
+    {
+      "name": "Kachori Sabzi",
+      "description": "One of Varanasi’s most famous breakfast dishes consisting of crispy fried kachoris served with spicy potato curry and chutneys. It is widely enjoyed by locals and tourists alike.",
+      "image_url": null
+    },
+    {
+      "name": "Banarasi Paan",
+      "description": "Varanasi is globally famous for its Banarasi paan made using betel leaves, flavored fillings, dry fruits, and sweet ingredients. It is considered a symbolic cultural experience of the city.",
+      "image_url": "varanasi\\food\\paan.jpg"
+    },
+    {
+      "name": "Tamatar Chaat",
+      "description": "A unique Varanasi-style street food dish prepared using mashed tomatoes, spices, butter, and crispy toppings. It is one of the city’s most iconic evening snacks.",
+      "image_url": "varanasi\\food\\Tamatar Chaat.jpg"
+    },
+    {
+      "name": "Malaiyyo",
+      "description": "A seasonal winter dessert prepared using saffron-infused milk foam, cardamom, and dry fruits. The dessert is famous for its extremely light texture and traditional preparation method.",
+      "image_url": null
+    },
+    {
+      "name": "Lassi",
+      "description": "Thick creamy lassi served in clay cups is one of the most popular beverages in Varanasi, especially near the old city and temple areas.",
+      "image_url": "varanasi\\food\\lassi.jpg"
+    }
+  ],
+  "food_areas": [
+    {
+      "name": "Kashi Vishwanath Corridor Area",
+      "specialty": "Traditional sweets, kachoris, and local snacks",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Kashi+Vishwanath+Corridor+Varanasi"
+    },
+    {
+      "name": "Godowlia Market",
+      "specialty": "Street food, paan shops, and lassi stalls",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Godowlia+Varanasi"
+    },
+    {
+      "name": "Assi Ghat Area",
+      "specialty": "Riverside cafés, snacks, and modern café culture",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Assi+Ghat+Varanasi"
+    }
+  ],
+  "buy_items": [
+    {
+      "name": "Banarasi Silk Sarees",
+      "description": "Varanasi is globally famous for its handcrafted Banarasi silk sarees known for intricate weaving, zari work, and luxurious designs. They are considered one of India’s most premium traditional textiles.",
+      "image_url": "varanasi\\things-to-buy\\Banarasi Silk Sarees.jpg"
+    },
+    {
+      "name": "Wooden Toys and Handicrafts",
+      "description": "Handmade wooden toys and decorative items represent traditional Banarasi craftsmanship and are popular as affordable souvenirs.",
+      "image_url": null
+    },
+    {
+      "name": "Rudraksha and Spiritual Items",
+      "description": "Spiritual beads, malas, brass idols, incense sticks, and temple accessories are widely purchased by pilgrims and spiritual travelers.",
+      "image_url": "varanasi\\things-to-buy\\Rudraksha and Spiritual Items.jpg"
+    },
+    {
+      "name": "Brassware and Metal Artifacts",
+      "description": "Varanasi markets are known for handcrafted brass lamps, statues, utensils, and decorative metal items inspired by religious culture.",
+      "image_url": null
+    },
+    {
+      "name": "Banarasi Paan Masala and Spices",
+      "description": "Local paan ingredients, spice blends, and traditional flavoring products are popular among visitors looking for authentic Banarasi tastes.",
+      "image_url": null
+    },
+    {
+      "name": "Handmade Musical Instruments",
+      "description": "The city has a deep connection with Indian classical music, making instruments like sitars and tablas popular specialty purchases.",
+      "image_url": "varanasi\\things-to-buy\\Handmade Musical Instruments.jpg"
+    }
+  ],
+  "shopping_markets": [
+    {
+      "name": "Vishwanath Gali",
+      "specialty": "Silk sarees, spiritual items, and souvenirs",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Vishwanath+Gali+Varanasi"
+    },
+    {
+      "name": "Godowlia Market",
+      "specialty": "Street shopping, handicrafts, and local products",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Godowlia+Market+Varanasi"
+    },
+    {
+      "name": "Thatheri Bazaar",
+      "specialty": "Brassware, metal crafts, and traditional items",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Thatheri+Bazaar+Varanasi"
+    }
+  ],
+  "travel_advisories": [
+    "Varanasi’s old city contains narrow lanes, crowded ghats, and heavy pedestrian movement, so comfortable walking shoes and light luggage are highly recommended.",
+    "The city has deep religious and cultural significance, therefore respectful dressing and behavior near temples and ghats are important.",
+    "Summers in Varanasi can become extremely hot and humid, so travelers should carry water and avoid excessive afternoon exposure during peak heat hours.",
+    "Boat rides and Ganga Aarti ceremonies attract large crowds, especially during evenings and festivals, so arriving early is recommended for better viewing experiences."
+  ],
+  "packing_checklist": {
+    "compulsory": [
+      "Government ID / Passport",
+      "Comfortable walking footwear",
+      "Mobile phone and charger",
+      "Water bottle",
+      "Lightweight cotton clothing"
+    ],
+    "optional": [
+      "Power bank",
+      "Sunscreen",
+      "Camera",
+      "Basic medicines",
+      "Traditional attire for temple visits",
+      "Small backpack",
+      "Sunglasses",
+      "Umbrella during monsoon"
+    ]
+  },
+  "locations": [
+    {
+      "name": "Kashi Vishwanath Temple",
+      "description": "Kashi Vishwanath Temple is one of the holiest Hindu temples dedicated to Lord Shiva and is among the most spiritually important pilgrimage destinations in India. The temple attracts millions of devotees annually and forms the spiritual heart of Varanasi.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Kashi+Vishwanath+Temple+Varanasi",
+      "opening_time": "3:00 AM",
+      "closing_time": "11:00 PM",
+      "best_visit_time": "Early morning or during evening Aarti",
+      "cost_usd": 0.0,
+      "duration_hours": 2.0,
+      "booking_required": true,
+      "booking_link": "https://www.shrikashivishwanath.org/",
+      "example_activities": [
+        "Temple darshan and worship",
+        "Corridor exploration",
+        "Spiritual photography and observation"
+      ],
+      "image_url": "varanasi\\locations\\Kashi Vishwanath Temple.jpg"
+    },
+    {
+      "name": "Dashashwamedh Ghat",
+      "description": "Dashashwamedh Ghat is Varanasi’s most famous riverfront ghat and is globally known for the spectacular evening Ganga Aarti ceremony performed daily on the banks of the River Ganga.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Dashashwamedh+Ghat+Varanasi",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Evening during Ganga Aarti",
+      "cost_usd": 0.0,
+      "duration_hours": 1.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Ganga Aarti experience",
+        "Boat ride viewing",
+        "Riverside photography"
+      ],
+      "image_url": "varanasi\\locations\\Dashashwamedh Ghat.jpg"
+    },
+    {
+      "name": "Assi Ghat",
+      "description": "Assi Ghat is one of Varanasi’s most peaceful and culturally active ghats, popular among students, backpackers, yoga enthusiasts, and long-term travelers. The area combines spirituality with modern café culture.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Assi+Ghat+Varanasi",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Sunrise or evening",
+      "cost_usd": 0.0,
+      "duration_hours": 2.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Sunrise boat rides",
+        "Yoga and meditation sessions",
+        "Café exploration"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Sarnath",
+      "description": "Sarnath is one of Buddhism’s most important pilgrimage sites located near Varanasi. It is the place where Lord Buddha delivered his first sermon after attaining enlightenment.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Sarnath+Varanasi",
+      "opening_time": "9:00 AM",
+      "closing_time": "5:00 PM",
+      "best_visit_time": "Morning or winter afternoons",
+      "cost_usd": 600.0,
+      "duration_hours": 3.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Buddhist site exploration",
+        "Museum visits",
+        "Meditation and peaceful walks"
+      ],
+      "image_url": "varanasi\\locations\\Sarnath.jpg"
+    },
+    {
+      "name": "Manikarnika Ghat",
+      "description": "Manikarnika Ghat is one of the oldest and most sacred cremation ghats in Varanasi. It holds deep spiritual importance in Hindu beliefs related to liberation and the cycle of life and death.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Manikarnika+Ghat+Varanasi",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Daytime for respectful observation",
+      "cost_usd": 0.0,
+      "duration_hours": 0.75,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Cultural and spiritual observation",
+        "Historical understanding",
+        "Riverfront heritage walks"
+      ],
+      "image_url": null
+    }
+  ]
+}

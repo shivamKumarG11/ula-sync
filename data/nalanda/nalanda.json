@@ -1,0 +1,263 @@
+{
+  "slug": "nalanda",
+  "name": "Nalanda",
+  "country": "India",
+  "country_code": "IN",
+  "timezone": "Asia/Kolkata",
+  "iata_code": "GAY",
+  "popularity_score": 40,
+  "description": "Nalanda is one of India’s most historically and academically significant destinations, located in the state of Bihar. The town is globally famous for the ancient Nalanda University, one of the world’s oldest residential universities and a major center of Buddhist learning during ancient times. Nalanda attracts historians, spiritual travelers, archaeologists, students, and Buddhist pilgrims from around the world because of its UNESCO World Heritage ruins, monasteries, museums, and deep connection with ancient Indian education. The destination offers a peaceful atmosphere with archaeological remains, Buddhist heritage sites, and cultural importance linked to scholars from China, Tibet, Korea, and Southeast Asia. Nalanda is also commonly visited alongside nearby Buddhist pilgrimage destinations such as Rajgir and Bodh Gaya.\n\n---",
+  "cover_photo_url": "nalanda\\nalanda.jpg",
+  "map_link": "https://www.google.com/maps/search/?api=1&query=Nalanda,+Bihar,+India",
+  "best_time_months": "October to March",
+  "best_time_why": "The weather remains cool and comfortable during these months, making it ideal for archaeological exploration, temple visits, museum tours, and historical sightseeing. Summers in Bihar can become extremely hot and uncomfortable for outdoor travel.",
+  "cost_index_usd": 48.0,
+  "budget_breakdown": "A realistic traveler in Nalanda can expect daily expenses around ₹5,000–₹6,000 ($60–$70), depending on accommodation type and nearby excursions. The destination is relatively budget-friendly because most attractions have affordable entry fees and transportation costs remain low. Accommodation options are simpler compared to major tourist cities, although nearby Rajgir offers better hotel facilities. Food expenses are minimal because local eateries and traditional meals are inexpensive and widely available. Travelers often combine Nalanda with Buddhist pilgrimage circuits, which can slightly increase transportation and accommodation costs. The destination is ideal for educational, spiritual, and heritage-focused travel rather than luxury tourism experiences.\n\n---",
+  "cost_breakdown": [
+    {
+      "expense_type": "travel",
+      "cost_usd": 15.0,
+      "cost_local": 1250.0,
+      "local_currency": "USD",
+      "description": "Includes trains, buses, or road transportation from nearby cities such as Patna, Gaya, or Rajgir. International travelers should additionally consider visa, passport, and international airfare expenses."
+    },
+    {
+      "expense_type": "stay",
+      "cost_usd": 28.0,
+      "cost_local": 2300.0,
+      "local_currency": "USD",
+      "description": "Covers average hotels, guesthouses, or budget accommodations near Nalanda and Rajgir. Luxury stay options are limited compared to larger tourist cities."
+    },
+    {
+      "expense_type": "food",
+      "cost_usd": 7.0,
+      "cost_local": 600.0,
+      "local_currency": "USD",
+      "description": "Includes local North Indian meals, snacks, tea, and simple restaurant dining experiences throughout the region."
+    },
+    {
+      "expense_type": "activities",
+      "cost_usd": 8.0,
+      "cost_local": 700.0,
+      "local_currency": "USD",
+      "description": "Covers archaeological site entry fees, museums, monastery visits, and local sightseeing experiences."
+    },
+    {
+      "expense_type": "local_transport",
+      "cost_usd": 5.0,
+      "cost_local": 400.0,
+      "local_currency": "USD",
+      "description": "Includes auto-rickshaws, shared taxis, and short-distance travel between Nalanda, Rajgir, and nearby attractions."
+    }
+  ],
+  "food_items": [
+    {
+      "name": "Litti Chokha",
+      "description": "Bihar’s most famous traditional dish consisting of roasted wheat balls stuffed with spiced gram flour and served with mashed vegetables. It is one of the region’s signature foods.",
+      "image_url": null
+    },
+    {
+      "name": "Khaja",
+      "description": "A crispy layered sweet prepared using flour, sugar syrup, and ghee. It is especially popular in Bihar and nearby pilgrimage towns.",
+      "image_url": null
+    },
+    {
+      "name": "Sattu Paratha",
+      "description": "Flatbread stuffed with roasted gram flour mixture, herbs, and spices. It is widely consumed as a filling local breakfast or lunch meal.",
+      "image_url": null
+    },
+    {
+      "name": "Dal Pitha",
+      "description": "A traditional steamed dumpling dish made from rice flour and lentil filling, reflecting Bihar’s local culinary traditions.",
+      "image_url": null
+    },
+    {
+      "name": "Thekua",
+      "description": "A sweet homemade snack prepared using wheat flour, jaggery, and coconut, commonly associated with Bihar’s festivals and traditional cuisine.",
+      "image_url": null
+    }
+  ],
+  "food_areas": [
+    {
+      "name": "Bihar Sharif Market Area",
+      "specialty": "Traditional Bihari meals and sweets",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Bihar+Sharif+Market"
+    },
+    {
+      "name": "Rajgir Market",
+      "specialty": "Local snacks, litti chokha, and sweets",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Rajgir+Market"
+    },
+    {
+      "name": "Nalanda Main Road Area",
+      "specialty": "Small restaurants and local vegetarian food",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Nalanda+Bihar+Restaurants"
+    }
+  ],
+  "buy_items": [
+    {
+      "name": "Madhubani Paintings",
+      "description": "Bihar is globally famous for Madhubani folk art featuring colorful hand-painted traditional designs inspired by mythology and nature.",
+      "image_url": null
+    },
+    {
+      "name": "Handmade Buddhist Souvenirs",
+      "description": "Buddhist prayer beads, miniature stupas, statues, and spiritual souvenirs are popular among pilgrims and heritage travelers.",
+      "image_url": null
+    },
+    {
+      "name": "Traditional Handwoven Textiles",
+      "description": "Locally woven shawls, fabrics, and handmade cotton products reflect Bihar’s regional craftsmanship.",
+      "image_url": null
+    },
+    {
+      "name": "Stone Carvings and Sculptures",
+      "description": "Nalanda and nearby regions are known for handcrafted stone sculptures inspired by Buddhist and historical art forms.",
+      "image_url": null
+    },
+    {
+      "name": "Local Sweets and Snacks",
+      "description": "Khaja, Thekua, and regional sweet products are commonly purchased as edible souvenirs.",
+      "image_url": null
+    },
+    {
+      "name": "Books on Buddhism and Ancient History",
+      "description": "Educational books related to Nalanda University, Buddhism, and Indian history are widely available near museums and heritage shops.",
+      "image_url": null
+    }
+  ],
+  "shopping_markets": [
+    {
+      "name": "Rajgir Market",
+      "specialty": "Buddhist souvenirs and handicrafts",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Rajgir+Market+Bihar"
+    },
+    {
+      "name": "Bihar Sharif Market",
+      "specialty": "Local textiles, sweets, and traditional products",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Bihar+Sharif+Market+Bihar"
+    },
+    {
+      "name": "Nalanda Heritage Shops",
+      "specialty": "Educational books and Buddhist artifacts",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Nalanda+Heritage+Shops"
+    }
+  ],
+  "travel_advisories": [
+    "Nalanda’s archaeological sites involve extensive outdoor walking under direct sunlight, therefore hats, hydration, and comfortable footwear are strongly recommended.",
+    "Summers in Bihar can become extremely hot, so travelers should avoid afternoon sightseeing during peak heat hours.",
+    "Public transportation options are relatively limited compared to major Indian tourist cities, therefore planning local travel in advance is advisable.",
+    "Many heritage and spiritual locations maintain quiet and respectful environments, so culturally appropriate behavior and modest clothing are recommended."
+  ],
+  "packing_checklist": {
+    "compulsory": [
+      "Government ID / Passport",
+      "Comfortable walking shoes",
+      "Mobile phone and charger",
+      "Water bottle",
+      "Lightweight cotton clothing"
+    ],
+    "optional": [
+      "Sunscreen",
+      "Power bank",
+      "Camera",
+      "Hat or cap",
+      "Basic medicines",
+      "Small backpack",
+      "Umbrella",
+      "Notebook for historical observations"
+    ]
+  },
+  "locations": [
+    {
+      "name": "Nalanda University Ruins",
+      "description": "The ruins of Nalanda University represent one of the world’s oldest centers of higher learning and a UNESCO World Heritage Site. The complex contains ancient monasteries, lecture halls, temples, courtyards, and archaeological remains dating back over a thousand years.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Nalanda+University+Ruins",
+      "opening_time": "9:00 AM",
+      "closing_time": "5:00 PM",
+      "best_visit_time": "Morning or winter afternoons",
+      "cost_usd": 600.0,
+      "duration_hours": 3.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Archaeological exploration",
+        "Historical learning experiences",
+        "Heritage photography"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Nalanda Archaeological Museum",
+      "description": "Nalanda Archaeological Museum contains ancient sculptures, manuscripts, Buddhist artifacts, coins, pottery, and historical remains excavated from the Nalanda University complex.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Nalanda+Archaeological+Museum",
+      "opening_time": "10:00 AM",
+      "closing_time": "5:00 PM",
+      "best_visit_time": "Morning or afternoon",
+      "cost_usd": 100.0,
+      "duration_hours": 1.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Artifact exploration",
+        "Educational tours",
+        "Cultural photography"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Hiuen Tsang Memorial Hall",
+      "description": "This memorial hall is dedicated to the famous Chinese Buddhist traveler Xuanzang (Hiuen Tsang), who studied at Nalanda University and documented ancient Indian civilization during his travels.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Hiuen+Tsang+Memorial+Hall+Nalanda",
+      "opening_time": "9:00 AM",
+      "closing_time": "5:00 PM",
+      "best_visit_time": "Morning",
+      "cost_usd": 100.0,
+      "duration_hours": 1.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Historical exhibitions",
+        "Cultural understanding",
+        "Educational exploration"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Rajgir",
+      "description": "Rajgir is an ancient historical and spiritual town located near Nalanda, strongly associated with Buddhism, Jainism, and ancient Magadha history. It contains temples, hills, caves, monasteries, and hot springs.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Rajgir+Bihar",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Morning or evening",
+      "cost_usd": 0.0,
+      "duration_hours": 8.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Ropeway rides to Vishwa Shanti Stupa",
+        "Spiritual and temple visits",
+        "Nature and hill exploration"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Vishwa Shanti Stupa",
+      "description": "Vishwa Shanti Stupa is a white peace pagoda located on Ratnagiri Hill near Rajgir. Built by Japanese Buddhists, the stupa symbolizes global peace and Buddhist teachings.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Vishwa+Shanti+Stupa+Rajgir",
+      "opening_time": "6:00 AM",
+      "closing_time": "6:00 PM",
+      "best_visit_time": "Morning or sunset",
+      "cost_usd": 0.0,
+      "duration_hours": 2.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Peace pagoda exploration",
+        "Meditation and spiritual relaxation",
+        "Scenic photography"
+      ],
+      "image_url": null
+    }
+  ]
+}

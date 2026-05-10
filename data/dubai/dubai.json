@@ -1,0 +1,263 @@
+{
+  "slug": "dubai",
+  "name": "Dubai",
+  "country": "UAE",
+  "country_code": "AE",
+  "timezone": "Asia/Dubai",
+  "iata_code": "DXB",
+  "popularity_score": 95,
+  "description": "Dubai is one of the world’s most futuristic and luxurious cities, located in the United Arab Emirates along the Persian Gulf coast. The city is globally famous for its towering skyscrapers, luxury shopping malls, desert adventures, artificial islands, and world-class entertainment. Dubai combines modern architecture, international business culture, Arabian heritage, and luxury tourism experiences, making it one of the most visited destinations in the Middle East. The city is home to iconic landmarks such as the Burj Khalifa, Palm Jumeirah, Dubai Marina, and Dubai Mall. Travelers visit Dubai for shopping, desert safaris, beach resorts, adventure activities, nightlife, fine dining, and large-scale entertainment attractions.\n\n---",
+  "cover_photo_url": "dubai\\dubai.jpg",
+  "map_link": "https://www.google.com/maps/search/?api=1&query=Dubai,+United+Arab+Emirates",
+  "best_time_months": "November to March",
+  "best_time_why": "The weather remains pleasant and suitable for sightseeing, desert safaris, beach activities, outdoor dining, and city exploration during these months. Summers in Dubai become extremely hot with daytime temperatures often exceeding comfortable travel conditions.",
+  "cost_index_usd": 347.0,
+  "budget_breakdown": "A realistic traveler in Dubai should expect daily expenses around AED 1,700–1,900 ($460–$520), depending on accommodation type and luxury preferences. Hotel stays form the largest portion of the budget because Dubai offers many premium and luxury properties near major tourist districts. Food expenses can vary widely, ranging from affordable food courts and local restaurants to extremely expensive fine-dining experiences. Public transportation is efficient and modern, although taxis and ride-sharing services can increase costs during peak travel periods. Activities such as desert safaris, theme parks, observation decks, and yacht cruises contribute significantly to daily spending. Travelers can reduce costs by staying outside central luxury districts and using Dubai Metro extensively.\n\n---",
+  "cost_breakdown": [
+    {
+      "expense_type": "travel",
+      "cost_usd": 140.0,
+      "cost_local": 515.0,
+      "local_currency": "AED",
+      "description": "Includes regional flights, airport transfers, or domestic transportation within the UAE. International travelers should additionally consider UAE visa requirements, passport expenses, and international airfare costs."
+    },
+    {
+      "expense_type": "stay",
+      "cost_usd": 220.0,
+      "cost_local": 810.0,
+      "local_currency": "AED",
+      "description": "Covers average mid-range hotels, serviced apartments, or accommodations near Downtown Dubai, Marina, or Jumeirah areas. Luxury hotels can significantly increase expenses."
+    },
+    {
+      "expense_type": "food",
+      "cost_usd": 45.0,
+      "cost_local": 165.0,
+      "local_currency": "AED",
+      "description": "Includes international cuisine, café visits, local Emirati meals, snacks, and moderate restaurant dining experiences."
+    },
+    {
+      "expense_type": "activities",
+      "cost_usd": 70.0,
+      "cost_local": 260.0,
+      "local_currency": "AED",
+      "description": "Covers desert safaris, observation decks, theme parks, museums, cruises, and major attraction entry fees."
+    },
+    {
+      "expense_type": "local_transport",
+      "cost_usd": 12.0,
+      "cost_local": 45.0,
+      "local_currency": "AED",
+      "description": "Includes Dubai Metro, taxis, ride-sharing services, and short-distance transportation throughout the city."
+    }
+  ],
+  "food_items": [
+    {
+      "name": "Shawarma",
+      "description": "One of Dubai’s most popular street foods consisting of grilled meat wrapped in flatbread with garlic sauce, vegetables, and pickles.",
+      "image_url": null
+    },
+    {
+      "name": "Machboos",
+      "description": "A traditional Emirati rice dish prepared using spiced meat or seafood along with aromatic Middle Eastern spices and herbs.",
+      "image_url": null
+    },
+    {
+      "name": "Luqaimat",
+      "description": "Sweet Emirati dumplings drizzled with date syrup or honey, commonly served during festivals and cultural events.",
+      "image_url": null
+    },
+    {
+      "name": "Mixed Grilled Kebabs",
+      "description": "Dubai’s multicultural food culture makes grilled kebabs, hummus, and Middle Eastern platters highly popular among tourists.",
+      "image_url": null
+    },
+    {
+      "name": "Camel Milk Desserts and Chocolates",
+      "description": "Specialty desserts and chocolates made using camel milk are unique food experiences associated with UAE culture.",
+      "image_url": null
+    }
+  ],
+  "food_areas": [
+    {
+      "name": "Al Seef",
+      "specialty": "Traditional Emirati cuisine and waterfront dining",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Al+Seef+Dubai"
+    },
+    {
+      "name": "Dubai Marina",
+      "specialty": "International dining and luxury restaurants",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Dubai+Marina"
+    },
+    {
+      "name": "Deira",
+      "specialty": "Street food, Arabic cuisine, and traditional markets",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Deira+Dubai"
+    }
+  ],
+  "buy_items": [
+    {
+      "name": "Gold Jewelry",
+      "description": "Dubai is globally famous for gold shopping because of its large gold markets, competitive pricing, and extensive jewelry collections.",
+      "image_url": null
+    },
+    {
+      "name": "Perfumes and Oud Fragrances",
+      "description": "Traditional Arabic perfumes and oud-based fragrances are among Dubai’s most iconic luxury shopping items.",
+      "image_url": null
+    },
+    {
+      "name": "Dates and Dry Fruits",
+      "description": "Premium dates, nuts, and Middle Eastern sweets are widely purchased as edible souvenirs.",
+      "image_url": null
+    },
+    {
+      "name": "Luxury Fashion and Electronics",
+      "description": "Dubai’s malls are famous for designer fashion brands, premium watches, and electronics shopping.",
+      "image_url": null
+    },
+    {
+      "name": "Persian Carpets and Handmade Rugs",
+      "description": "Handcrafted carpets and decorative rugs reflecting Middle Eastern artistry are highly popular among tourists.",
+      "image_url": null
+    },
+    {
+      "name": "Camel Milk Chocolates",
+      "description": "Specialty chocolates made using camel milk are unique UAE-themed gifts and souvenirs.",
+      "image_url": null
+    }
+  ],
+  "shopping_markets": [
+    {
+      "name": "Dubai Mall",
+      "specialty": "Luxury shopping, fashion, and entertainment",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Dubai+Mall"
+    },
+    {
+      "name": "Gold Souk",
+      "specialty": "Gold jewelry and traditional Arabic shopping",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Dubai+Gold+Souk"
+    },
+    {
+      "name": "Mall of the Emirates",
+      "specialty": "Fashion brands, electronics, and lifestyle shopping",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Mall+of+the+Emirates"
+    }
+  ],
+  "travel_advisories": [
+    "Dubai follows local UAE laws and cultural expectations, therefore respectful clothing and public behavior are recommended, especially near religious and traditional areas.",
+    "Desert climates can become extremely hot during daytime, so hydration, sunscreen, and lightweight breathable clothing are essential.",
+    "Public transportation is modern and efficient, therefore purchasing a Nol transport card can simplify travel across metro, buses, and trams.",
+    "Many major attractions require advance online bookings during weekends, holidays, and tourist seasons because of heavy visitor demand."
+  ],
+  "packing_checklist": {
+    "compulsory": [
+      "Passport and travel documents",
+      "Comfortable walking shoes",
+      "Mobile phone and charger",
+      "Lightweight breathable clothing",
+      "Sunscreen"
+    ],
+    "optional": [
+      "Sunglasses",
+      "Power bank",
+      "Universal travel adapter",
+      "Camera",
+      "Light jacket for indoor air-conditioned areas",
+      "Reusable water bottle",
+      "Swimwear",
+      "Small backpack"
+    ]
+  },
+  "locations": [
+    {
+      "name": "Burj Khalifa",
+      "description": "Burj Khalifa is the tallest building in the world and Dubai’s most iconic landmark. The skyscraper dominates the city skyline and offers panoramic observation decks overlooking Dubai’s urban landscape and desert surroundings.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Burj+Khalifa+Dubai",
+      "opening_time": "8:00 AM",
+      "closing_time": "11:00 PM",
+      "best_visit_time": "Sunset or evening",
+      "cost_usd": 179.0,
+      "duration_hours": 2.5,
+      "booking_required": true,
+      "booking_link": "https://www.burjkhalifa.ae/",
+      "example_activities": [
+        "Observation deck experiences",
+        "Dubai Fountain viewing",
+        "Luxury dining experiences"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Dubai Mall",
+      "description": "Dubai Mall is one of the world’s largest shopping and entertainment complexes featuring luxury shopping, indoor attractions, aquariums, cinemas, and dining experiences.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Dubai+Mall",
+      "opening_time": "10:00 AM",
+      "closing_time": "12:00 AM",
+      "best_visit_time": "Afternoon or evening",
+      "cost_usd": 0.0,
+      "duration_hours": 6.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Luxury shopping",
+        "Dubai Aquarium visit",
+        "Entertainment and dining"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Palm Jumeirah",
+      "description": "Palm Jumeirah is Dubai’s famous artificial island shaped like a palm tree and known for luxury resorts, beachfront properties, fine dining, and scenic coastal experiences.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Palm+Jumeirah+Dubai",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Evening or sunset",
+      "cost_usd": 0.0,
+      "duration_hours": 4.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Beach and resort experiences",
+        "Monorail rides",
+        "Waterfront dining and nightlife"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Dubai Desert Safari",
+      "description": "Desert safaris are among Dubai’s most popular adventure experiences featuring dune bashing, camel rides, cultural shows, and traditional Arabian desert camps.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Dubai+Desert+Safari",
+      "opening_time": "Safari timings vary",
+      "closing_time": "Safari timings vary",
+      "best_visit_time": "Evening",
+      "cost_usd": 150.0,
+      "duration_hours": 6.0,
+      "booking_required": true,
+      "booking_link": "https://www.visitdubai.com/",
+      "example_activities": [
+        "Dune bashing",
+        "Camel riding and cultural experiences",
+        "Desert sunset photography"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Dubai Marina",
+      "description": "Dubai Marina is one of the city’s most modern waterfront districts known for skyscrapers, luxury yachts, promenades, nightlife, and upscale dining experiences.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Dubai+Marina",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Evening",
+      "cost_usd": 0.0,
+      "duration_hours": 3.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Marina promenade walks",
+        "Yacht cruises",
+        "Nightlife exploration"
+      ],
+      "image_url": null
+    }
+  ]
+}

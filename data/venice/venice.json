@@ -1,0 +1,263 @@
+{
+  "slug": "venice",
+  "name": "Venice",
+  "country": "Italy",
+  "country_code": "IT",
+  "timezone": "Europe/Rome",
+  "iata_code": "VCE",
+  "popularity_score": 91,
+  "description": "Venice is one of the world’s most unique and romantic cities, located in northeastern Italy and built across more than 100 small islands connected by canals and bridges. Famous for its gondolas, Renaissance architecture, historic churches, and artistic heritage, Venice attracts millions of tourists every year. The city is globally recognized for landmarks like St. Mark’s Basilica, the Grand Canal, and the Rialto Bridge. Venice offers a magical atmosphere with narrow alleyways, waterfront cafés, hidden courtyards, and centuries-old buildings reflecting Italian culture and history. Despite heavy tourism, the city remains one of Europe’s most iconic travel destinations for art lovers, couples, photographers, and cultural travelers.\n\n---",
+  "cover_photo_url": null,
+  "map_link": "https://www.google.com/maps/search/?api=1&query=Venice,+Italy",
+  "best_time_months": "April to June and September to October",
+  "best_time_why": "These months provide pleasant weather, manageable tourist crowds, comfortable canal sightseeing conditions, and ideal temperatures for walking tours and outdoor activities. Peak summer months can become overcrowded and expensive.",
+  "cost_index_usd": 255.0,
+  "budget_breakdown": "A realistic traveler in Venice should expect daily expenses around €300–€320 ($320–$340), especially during tourist seasons. Accommodation forms the largest expense because Venice hotels are relatively expensive compared to many other Italian cities. Waterfront restaurants, gondola rides, and museum entries can quickly increase overall spending. Budget travelers can reduce costs by staying in Mestre instead of the main island and using Vaporetto transport passes. Food costs vary significantly depending on whether travelers eat near major tourist attractions or local neighborhoods. Walking remains one of the best and cheapest ways to explore Venice because many parts of the city are inaccessible to cars.\n\n---",
+  "cost_breakdown": [
+    {
+      "expense_type": "travel",
+      "cost_usd": 70.0,
+      "cost_local": 65.0,
+      "local_currency": "USD",
+      "description": "Includes average train, domestic flight, or intercity transportation within Italy. International travelers should additionally consider Schengen visa costs, passport expenses, and international airfare."
+    },
+    {
+      "expense_type": "stay",
+      "cost_usd": 150.0,
+      "cost_local": 140.0,
+      "local_currency": "USD",
+      "description": "Covers an average mid-range hotel or guesthouse stay for one night. Canal-view hotels and peak-season stays can significantly increase accommodation expenses."
+    },
+    {
+      "expense_type": "food",
+      "cost_usd": 45.0,
+      "cost_local": 42.0,
+      "local_currency": "USD",
+      "description": "Includes breakfast, lunch, dinner, coffee, snacks, and café dining. Waterfront restaurants and tourist-heavy areas are generally more expensive."
+    },
+    {
+      "expense_type": "activities",
+      "cost_usd": 40.0,
+      "cost_local": 37.0,
+      "local_currency": "USD",
+      "description": "Covers museum passes, basilica entries, gondola rides, and popular attraction tickets within Venice."
+    },
+    {
+      "expense_type": "local_transport",
+      "cost_usd": 20.0,
+      "cost_local": 18.0,
+      "local_currency": "USD",
+      "description": "Includes Vaporetto water buses, short ferry rides, and occasional water taxi usage for daily movement around Venice."
+    }
+  ],
+  "food_items": [
+    {
+      "name": "Risotto al Nero di Seppia",
+      "description": "A famous Venetian seafood risotto prepared using squid ink, giving the dish its distinctive black color and rich seafood flavor. It is considered one of Venice’s most iconic traditional dishes.",
+      "image_url": null
+    },
+    {
+      "name": "Cicchetti",
+      "description": "Small Venetian-style snacks served in local wine bars known as bacari. These bite-sized dishes often include seafood, cheeses, olives, and cured meats, making them ideal for casual food exploration.",
+      "image_url": "venice\\food\\Cicchetti.jpg"
+    },
+    {
+      "name": "Sarde in Saor",
+      "description": "A traditional Venetian dish prepared using sardines, onions, vinegar, raisins, and pine nuts. The sweet-and-sour preparation reflects Venice’s historical maritime trade influences.",
+      "image_url": "venice\\food\\Sarde in Saor.jpg"
+    },
+    {
+      "name": "Bigoli in Salsa",
+      "description": "Thick pasta served with anchovy and onion sauce, commonly eaten during traditional Venetian festivals and local family meals.",
+      "image_url": null
+    },
+    {
+      "name": "Tiramisu",
+      "description": "Although popular throughout Italy, Venice and nearby Veneto region are strongly associated with authentic tiramisu desserts made using mascarpone cheese, coffee, and cocoa.",
+      "image_url": "venice\\food\\Tiramisu.jpg"
+    }
+  ],
+  "food_areas": [
+    {
+      "name": "Cannaregio",
+      "specialty": "Traditional Venetian restaurants and cicchetti bars",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Cannaregio+Venice"
+    },
+    {
+      "name": "San Marco Area",
+      "specialty": "Fine dining, cafés, and famous Italian desserts",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=San+Marco+Venice"
+    },
+    {
+      "name": "Rialto Market Area",
+      "specialty": "Fresh seafood and authentic local food experiences",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Rialto+Market+Venice"
+    }
+  ],
+  "buy_items": [
+    {
+      "name": "Murano Glass",
+      "description": "Venice is world-famous for Murano glass art created using centuries-old glassmaking techniques. Handmade glass jewelry, lamps, and decorative pieces are considered premium Venetian souvenirs.",
+      "image_url": null
+    },
+    {
+      "name": "Venetian Masks",
+      "description": "Decorative carnival masks are one of Venice’s most iconic cultural products because of the city’s historic Carnival festival traditions.",
+      "image_url": "venice\\things-to-buy\\venetian masks.jpg"
+    },
+    {
+      "name": "Handmade Leather Goods",
+      "description": "Italian leather bags, wallets, belts, and accessories are widely purchased because of their craftsmanship and premium quality.",
+      "image_url": null
+    },
+    {
+      "name": "Burano Lace",
+      "description": "Handmade lace products from nearby Burano Island are famous for their detailed craftsmanship and historical importance in Venetian textile culture.",
+      "image_url": "venice\\things-to-buy\\Burano Lace.jpg"
+    },
+    {
+      "name": "Italian Olive Oil and Wine",
+      "description": "Venice markets offer premium Italian olive oils, wines, and gourmet food products popular among culinary tourists.",
+      "image_url": "venice\\things-to-buy\\Italian Olive Oil and Wine.jpg"
+    },
+    {
+      "name": "Art Prints and Handmade Paper Products",
+      "description": "Venice contains many artisan stores selling handmade notebooks, artistic prints, watercolor paintings, and decorative stationery inspired by Venetian architecture.",
+      "image_url": null
+    }
+  ],
+  "shopping_markets": [
+    {
+      "name": "Rialto Market",
+      "specialty": "Fresh produce, seafood, and local specialties",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Rialto+Market+Venice"
+    },
+    {
+      "name": "Mercerie Shopping Streets",
+      "specialty": "Luxury fashion, souvenirs, and Venetian crafts",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Mercerie+Venice"
+    },
+    {
+      "name": "Murano Island Shops",
+      "specialty": "Authentic Murano glass products",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Murano+Island+Venice"
+    }
+  ],
+  "travel_advisories": [
+    "Venice involves extensive walking across bridges, narrow streets, and canal pathways, so comfortable walking shoes are extremely important for daily sightseeing.",
+    "Tourist areas around St. Mark’s Square and Rialto Bridge can become heavily crowded during daytime, especially during summer and cruise ship arrival hours.",
+    "Water taxis and gondola rides are expensive compared to standard public transportation, so travelers should plan transportation budgets carefully.",
+    "High tide flooding known as “Acqua Alta” occasionally affects parts of Venice during certain months, therefore checking weather and flood forecasts before travel is recommended."
+  ],
+  "packing_checklist": {
+    "compulsory": [
+      "Passport and travel documents",
+      "Comfortable walking shoes",
+      "Mobile phone and charger",
+      "Lightweight backpack",
+      "International payment cards / cash"
+    ],
+    "optional": [
+      "Power bank",
+      "Rain jacket",
+      "Camera",
+      "Sunglasses",
+      "Universal travel adapter",
+      "Reusable water bottle",
+      "Light jacket",
+      "Waterproof bag for electronics"
+    ]
+  },
+  "locations": [
+    {
+      "name": "St. Mark’s Basilica",
+      "description": "St. Mark’s Basilica is Venice’s most famous church and one of the finest examples of Italo-Byzantine architecture in Europe. The basilica is known for its golden mosaics, domes, marble interiors, and historical significance connected to Venetian political and religious power.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=St+Marks+Basilica+Venice",
+      "opening_time": "9:30 AM",
+      "closing_time": "5:15 PM",
+      "best_visit_time": "Early morning before large tourist crowds",
+      "cost_usd": 6.0,
+      "duration_hours": 1.5,
+      "booking_required": true,
+      "booking_link": "https://www.basilicasanmarco.it/",
+      "example_activities": [
+        "Basilica interior exploration",
+        "Terrace viewpoint photography",
+        "Historical and cultural learning"
+      ],
+      "image_url": "venice\\locations\\St. Mark’s Basilica.jpg"
+    },
+    {
+      "name": "Grand Canal",
+      "description": "The Grand Canal is Venice’s main waterway and acts as the city’s central transportation route. Surrounded by historic palaces, bridges, churches, and colorful waterfront buildings, it is one of Venice’s most iconic attractions.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Grand+Canal+Venice",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Sunset or evening for scenic canal views",
+      "cost_usd": 0.0,
+      "duration_hours": 2.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Vaporetto boat rides",
+        "Gondola rides",
+        "Canal-side photography"
+      ],
+      "image_url": "venice\\locations\\Grand Canal.jpg"
+    },
+    {
+      "name": "Rialto Bridge",
+      "description": "Rialto Bridge is Venice’s oldest and most famous bridge crossing the Grand Canal. It is known for its Renaissance architecture, market surroundings, and panoramic canal views.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Rialto+Bridge+Venice",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Early morning or late evening",
+      "cost_usd": 0.0,
+      "duration_hours": 0.75,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Bridge photography",
+        "Shopping exploration",
+        "Canal observation"
+      ],
+      "image_url": "venice\\locations\\Rialto Bridge.jpg"
+    },
+    {
+      "name": "Doge’s Palace",
+      "description": "Doge’s Palace was historically the political center of the Venetian Republic and is one of Venice’s most important historical landmarks. The palace showcases Gothic architecture, grand halls, artwork, prisons, and political chambers.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Doges+Palace+Venice",
+      "opening_time": "9:00 AM",
+      "closing_time": "7:00 PM",
+      "best_visit_time": "Morning hours",
+      "cost_usd": 30.0,
+      "duration_hours": 2.5,
+      "booking_required": true,
+      "booking_link": "https://palazzoducale.visitmuve.it/",
+      "example_activities": [
+        "Palace interior tours",
+        "Bridge of Sighs visit",
+        "Art and history exploration"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Murano Island",
+      "description": "Murano Island is internationally famous for its glassmaking traditions dating back centuries. The island contains glass factories, artisan workshops, museums, and shops displaying handmade Murano glass art.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Murano+Island+Venice",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Morning or afternoon",
+      "cost_usd": 0.0,
+      "duration_hours": 4.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Glass factory demonstrations",
+        "Souvenir shopping",
+        "Museum visits"
+      ],
+      "image_url": null
+    }
+  ]
+}

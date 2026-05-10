@@ -1,0 +1,263 @@
+{
+  "slug": "santorini",
+  "name": "Santorini",
+  "country": "Greece",
+  "country_code": "GR",
+  "timezone": "Europe/Athens",
+  "iata_code": "JTR",
+  "popularity_score": 92,
+  "description": "Santorini is one of Greece’s most famous island destinations, located in the southern Aegean Sea and known worldwide for its whitewashed buildings, blue-domed churches, dramatic cliffs, and breathtaking sunsets. Formed by a volcanic eruption thousands of years ago, the island offers stunning caldera views, luxury resorts, volcanic beaches, and charming villages built along steep cliffs. Santorini is highly popular among honeymooners, photographers, luxury travelers, and cruise tourists because of its romantic atmosphere and Mediterranean beauty. The island combines Greek culture, volcanic landscapes, traditional architecture, seaside dining, and vibrant nightlife, making it one of Europe’s most iconic travel destinations.\n\n---",
+  "cover_photo_url": "santorini\\santorini.jpg",
+  "map_link": "https://www.google.com/maps/search/?api=1&query=Santorini,+Greece",
+  "best_time_months": "April to June and September to October",
+  "best_time_why": "These months provide pleasant Mediterranean weather, manageable tourist crowds, comfortable temperatures, and ideal conditions for island sightseeing, sunset viewing, beach visits, and boat tours. Peak summer months can become extremely crowded and expensive.",
+  "cost_index_usd": 330.0,
+  "budget_breakdown": "A realistic traveler in Santorini should expect daily expenses around €400–€450 ($440–$500), especially when staying in popular areas such as Oia or Fira. Accommodation forms the largest part of the budget because caldera-view hotels and sunset-facing resorts are highly expensive during tourist season. Food costs vary significantly depending on whether travelers dine at local tavernas or luxury cliffside restaurants. Transportation is manageable because buses connect most major villages, although private taxis and ATV rentals can increase daily expenses. Boat tours, volcanic excursions, and beach experiences contribute moderately to activity costs. Travelers can reduce spending by visiting during shoulder seasons and staying slightly away from premium sunset-view districts.\n\n---",
+  "cost_breakdown": [
+    {
+      "expense_type": "travel",
+      "cost_usd": 110.0,
+      "cost_local": 100.0,
+      "local_currency": "USD",
+      "description": "Includes ferry transportation, domestic flights within Greece, airport transfers, or inter-island travel. International travelers should additionally consider Schengen visa costs, passport expenses, and international airfare."
+    },
+    {
+      "expense_type": "stay",
+      "cost_usd": 220.0,
+      "cost_local": 200.0,
+      "local_currency": "USD",
+      "description": "Covers average cliffside hotels, boutique accommodations, or mid-range caldera-view stays for one night. Luxury cave hotels can significantly increase expenses."
+    },
+    {
+      "expense_type": "food",
+      "cost_usd": 50.0,
+      "cost_local": 45.0,
+      "local_currency": "USD",
+      "description": "Includes Greek meals, seafood dining, café visits, desserts, and moderate restaurant experiences around the island."
+    },
+    {
+      "expense_type": "activities",
+      "cost_usd": 45.0,
+      "cost_local": 40.0,
+      "local_currency": "USD",
+      "description": "Covers boat tours, volcanic island excursions, museum tickets, beach activities, and sightseeing experiences."
+    },
+    {
+      "expense_type": "local_transport",
+      "cost_usd": 15.0,
+      "cost_local": 14.0,
+      "local_currency": "USD",
+      "description": "Includes buses, scooter rentals, taxis, or short-distance transportation between villages and tourist attractions."
+    }
+  ],
+  "food_items": [
+    {
+      "name": "Greek Moussaka",
+      "description": "A traditional Greek baked dish prepared using layers of eggplant, minced meat, potatoes, and béchamel sauce. It is one of Greece’s most famous comfort foods.",
+      "image_url": null
+    },
+    {
+      "name": "Fresh Seafood and Grilled Octopus",
+      "description": "Santorini’s coastal culture makes seafood extremely popular, especially grilled octopus, calamari, and fresh fish served in seaside restaurants.",
+      "image_url": null
+    },
+    {
+      "name": "Santorini Fava",
+      "description": "A famous local dish prepared using yellow split peas grown in Santorini’s volcanic soil. It is known for its creamy texture and rich flavor.",
+      "image_url": null
+    },
+    {
+      "name": "Greek Gyros",
+      "description": "A popular street-food dish made with grilled meat, pita bread, vegetables, fries, and tzatziki sauce. It is widely available throughout the island.",
+      "image_url": null
+    },
+    {
+      "name": "Baklava",
+      "description": "A sweet Mediterranean dessert prepared using layers of filo pastry, honey, nuts, and syrup, commonly served after meals or with coffee.",
+      "image_url": null
+    }
+  ],
+  "food_areas": [
+    {
+      "name": "Oia",
+      "specialty": "Cliffside restaurants, seafood, and sunset dining",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Oia+Santorini"
+    },
+    {
+      "name": "Fira",
+      "specialty": "Greek tavernas, cafés, and nightlife dining",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Fira+Santorini"
+    },
+    {
+      "name": "Ammoudi Bay",
+      "specialty": "Fresh seafood and waterfront dining experiences",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Ammoudi+Bay+Santorini"
+    }
+  ],
+  "buy_items": [
+    {
+      "name": "Santorini Wine",
+      "description": "The island is internationally famous for volcanic-soil wines such as Assyrtiko, making local wineries one of Santorini’s most popular shopping experiences.",
+      "image_url": null
+    },
+    {
+      "name": "Handmade Greek Jewelry",
+      "description": "Gold and silver jewelry inspired by Greek mythology and Mediterranean art are widely available in local boutiques and artisan shops.",
+      "image_url": null
+    },
+    {
+      "name": "Olive Oil Products",
+      "description": "Premium Greek olive oil, soaps, skincare products, and herbal cosmetics are popular souvenirs among international travelers.",
+      "image_url": null
+    },
+    {
+      "name": "Traditional Ceramics and Pottery",
+      "description": "Handmade pottery and ceramic décor inspired by Greek island culture are commonly purchased decorative souvenirs.",
+      "image_url": null
+    },
+    {
+      "name": "Greek Leather Sandals",
+      "description": "Handmade leather sandals are one of the most iconic and practical Greek fashion products available across Santorini markets.",
+      "image_url": null
+    },
+    {
+      "name": "Local Spices and Herbs",
+      "description": "Mediterranean herbs, teas, and spice blends are popular among travelers interested in Greek culinary culture.",
+      "image_url": null
+    }
+  ],
+  "shopping_markets": [
+    {
+      "name": "Fira Shopping Streets",
+      "specialty": "Jewelry, souvenirs, and fashion boutiques",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Fira+Shopping+Santorini"
+    },
+    {
+      "name": "Oia Main Market Area",
+      "specialty": "Luxury shopping, handmade crafts, and art galleries",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Oia+Market+Santorini"
+    },
+    {
+      "name": "Pyrgos Village Shops",
+      "specialty": "Traditional products and local artisan crafts",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Pyrgos+Santorini"
+    }
+  ],
+  "travel_advisories": [
+    "Santorini involves extensive walking on steep pathways, staircases, and uneven volcanic stone streets, so comfortable walking footwear is essential.",
+    "Summer temperatures can become very hot during afternoon hours, therefore hydration, sunscreen, and light clothing are highly recommended.",
+    "Sunset viewing areas in Oia become extremely crowded during evenings, so arriving early is important for better viewing spots and photography opportunities.",
+    "Ferry schedules and weather conditions can occasionally affect inter-island transportation, therefore travelers should keep flexible travel plans."
+  ],
+  "packing_checklist": {
+    "compulsory": [
+      "Passport and travel documents",
+      "Comfortable walking shoes",
+      "Mobile phone and charger",
+      "Sunglasses and sunscreen",
+      "Lightweight summer clothing"
+    ],
+    "optional": [
+      "Camera",
+      "Power bank",
+      "Beachwear",
+      "Reusable water bottle",
+      "Light jacket for evenings",
+      "Waterproof pouch",
+      "Hat or cap",
+      "Universal travel adapter"
+    ]
+  },
+  "locations": [
+    {
+      "name": "Oia Village",
+      "description": "Oia is Santorini’s most famous village known for whitewashed cliffside buildings, blue-domed churches, luxury hotels, and some of the world’s most photographed sunset views. It represents the classic image associated with Santorini tourism.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Oia+Santorini",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Evening during sunset",
+      "cost_usd": 0.0,
+      "duration_hours": 4.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Sunset photography",
+        "Village exploration",
+        "Rooftop dining experiences"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Fira",
+      "description": "Fira is the capital of Santorini and serves as the island’s main commercial, transportation, and nightlife center. The town is famous for its caldera views, shopping streets, restaurants, museums, and cliffside cafés.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Fira+Santorini",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Afternoon and evening",
+      "cost_usd": 0.0,
+      "duration_hours": 3.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Cliffside café hopping",
+        "Shopping exploration",
+        "Nightlife experiences"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Red Beach",
+      "description": "Red Beach is one of Santorini’s most unique beaches known for its dramatic red volcanic cliffs and dark-colored sand formed through ancient volcanic activity.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Red+Beach+Santorini",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Morning or late afternoon",
+      "cost_usd": 0.0,
+      "duration_hours": 3.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Beach relaxation",
+        "Swimming and sunbathing",
+        "Volcanic landscape photography"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Akrotiri Archaeological Site",
+      "description": "Akrotiri is one of Greece’s most important archaeological sites containing ruins of an ancient Minoan civilization preserved after a volcanic eruption thousands of years ago.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Akrotiri+Archaeological+Site+Santorini",
+      "opening_time": "8:00 AM",
+      "closing_time": "8:00 PM",
+      "best_visit_time": "Morning hours",
+      "cost_usd": 12.0,
+      "duration_hours": 2.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Archaeological exploration",
+        "Historical learning experiences",
+        "Educational photography"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Santorini Caldera Cruise",
+      "description": "Caldera cruises are among Santorini’s most popular experiences, allowing visitors to explore volcanic islands, hot springs, and scenic coastal cliffs from the Aegean Sea.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Santorini+Caldera+Cruise",
+      "opening_time": "Cruise schedules vary",
+      "closing_time": "Cruise schedules vary",
+      "best_visit_time": "Sunset cruises during evening",
+      "cost_usd": 40.0,
+      "duration_hours": 6.0,
+      "booking_required": true,
+      "booking_link": "https://www.getyourguide.com/santorini-l753/",
+      "example_activities": [
+        "Volcano and hot spring exploration",
+        "Sunset sailing experiences",
+        "Coastal photography"
+      ],
+      "image_url": null
+    }
+  ]
+}

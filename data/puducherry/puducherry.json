@@ -1,0 +1,263 @@
+{
+  "slug": "puducherry",
+  "name": "Puducherry",
+  "country": "India",
+  "country_code": "IN",
+  "timezone": "Asia/Kolkata",
+  "iata_code": "PNY",
+  "popularity_score": 50,
+  "description": "Puducherry, also known as Pondicherry, is a charming coastal city in South India famous for its French colonial architecture, peaceful beaches, spiritual atmosphere, and café culture. Located along the Bay of Bengal, the city blends Indian and French influences in its streets, food, culture, and lifestyle. Puducherry is widely known for colorful colonial buildings, seaside promenades, yoga retreats, Auroville, and relaxed travel experiences. The city attracts backpackers, spiritual seekers, couples, digital nomads, and weekend travelers looking for a calm coastal destination with unique cultural character. Unlike crowded metropolitan cities, Puducherry offers a slower pace of life with scenic streets, ocean views, cafés, art spaces, and heritage neighborhoods.\n\n---",
+  "cover_photo_url": "puducherry\\puducherry.jpg",
+  "map_link": "https://www.google.com/maps/search/?api=1&query=Puducherry,+India",
+  "best_time_months": "October to March",
+  "best_time_why": "The weather remains pleasant and relatively cooler during these months, making it ideal for beach visits, café exploration, cycling tours, sightseeing, and outdoor activities. Summers can become extremely humid and hot.",
+  "cost_index_usd": 73.0,
+  "budget_breakdown": "A realistic traveler in Puducherry can expect daily expenses around ₹7,500–₹8,500 ($90–$100), depending on accommodation type and dining preferences. Boutique heritage stays and beachfront hotels form the largest portion of the budget, especially during weekends and tourist seasons. Food remains moderately affordable because the city offers both local South Indian meals and premium French-inspired café dining experiences. Renting scooters is one of the most convenient and economical ways to explore the city and nearby beaches. Most attractions have minimal entry costs, making Puducherry relatively budget-friendly compared to larger coastal tourist destinations. Travelers can significantly reduce costs by staying in guesthouses and eating at local cafés outside the main tourist zones.\n\n---",
+  "cost_breakdown": [
+    {
+      "expense_type": "travel",
+      "cost_usd": 18.0,
+      "cost_local": 1500.0,
+      "local_currency": "USD",
+      "description": "Includes buses, trains, or short domestic flights to nearby airports such as Chennai. International travelers should additionally consider visa, passport, and international airfare expenses."
+    },
+    {
+      "expense_type": "stay",
+      "cost_usd": 45.0,
+      "cost_local": 3800.0,
+      "local_currency": "USD",
+      "description": "Covers boutique guesthouses, heritage stays, beachside hotels, or comfortable mid-range accommodations near White Town or beach areas."
+    },
+    {
+      "expense_type": "food",
+      "cost_usd": 12.0,
+      "cost_local": 1000.0,
+      "local_currency": "USD",
+      "description": "Includes café meals, seafood, French-inspired cuisine, South Indian meals, snacks, and beverages throughout the city."
+    },
+    {
+      "expense_type": "activities",
+      "cost_usd": 10.0,
+      "cost_local": 850.0,
+      "local_currency": "USD",
+      "description": "Covers museums, Auroville visits, heritage walks, water activities, and local sightseeing experiences."
+    },
+    {
+      "expense_type": "local_transport",
+      "cost_usd": 6.0,
+      "cost_local": 500.0,
+      "local_currency": "USD",
+      "description": "Includes scooter rentals, auto-rickshaws, taxis, and short-distance transportation around Puducherry."
+    }
+  ],
+  "food_items": [
+    {
+      "name": "French Pastries and Croissants",
+      "description": "Puducherry’s French colonial influence is strongly reflected in its bakeries and cafés serving croissants, baguettes, pastries, and artisan desserts.",
+      "image_url": null
+    },
+    {
+      "name": "Seafood Curry and Fish Fry",
+      "description": "Fresh seafood dishes prepared using South Indian spices and coastal cooking styles are highly popular among visitors.",
+      "image_url": null
+    },
+    {
+      "name": "Creole Cuisine",
+      "description": "Puducherry is famous for unique Creole dishes combining French and Tamil culinary traditions using seafood, rice, spices, and local herbs.",
+      "image_url": null
+    },
+    {
+      "name": "Dosa and South Indian Breakfasts",
+      "description": "Traditional South Indian breakfasts like dosa, idli, pongal, and filter coffee are widely available across the city.",
+      "image_url": null
+    },
+    {
+      "name": "Wood-Fired Pizza and Café Food",
+      "description": "Puducherry’s café culture includes pizzas, pasta, coffee, smoothies, and continental food served in aesthetic colonial cafés.",
+      "image_url": null
+    }
+  ],
+  "food_areas": [
+    {
+      "name": "White Town",
+      "specialty": "French cafés, bakeries, and continental cuisine",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=White+Town+Puducherry"
+    },
+    {
+      "name": "Mission Street",
+      "specialty": "Street food, cafés, and local restaurants",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Mission+Street+Puducherry"
+    },
+    {
+      "name": "Promenade Beach Area",
+      "specialty": "Seafood, cafés, and ocean-view dining",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Promenade+Beach+Puducherry"
+    }
+  ],
+  "buy_items": [
+    {
+      "name": "Handmade Candles and Aromatic Products",
+      "description": "Puducherry is known for handcrafted scented candles, incense sticks, essential oils, and wellness products inspired by Auroville culture.",
+      "image_url": null
+    },
+    {
+      "name": "Leather Bags and Accessories",
+      "description": "Stylish handmade leather products such as bags, wallets, sandals, and accessories are popular among tourists.",
+      "image_url": null
+    },
+    {
+      "name": "Handmade Paper Products",
+      "description": "Auroville and local artisan stores sell eco-friendly handmade paper notebooks, journals, and stationery products.",
+      "image_url": null
+    },
+    {
+      "name": "Traditional Tamil and French Décor Items",
+      "description": "Decorative items combining French aesthetics and South Indian craftsmanship are commonly purchased souvenirs.",
+      "image_url": null
+    },
+    {
+      "name": "Organic Products and Herbal Soaps",
+      "description": "Organic soaps, herbal skincare products, and natural wellness items are highly popular because of Puducherry’s wellness-oriented culture.",
+      "image_url": null
+    },
+    {
+      "name": "Cotton Clothing and Beachwear",
+      "description": "Lightweight cotton clothes, scarves, handmade dresses, and beachwear are widely available in boutique stores.",
+      "image_url": null
+    }
+  ],
+  "shopping_markets": [
+    {
+      "name": "Mission Street Market",
+      "specialty": "Clothing, souvenirs, and local shopping",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Mission+Street+Puducherry"
+    },
+    {
+      "name": "Goubert Market",
+      "specialty": "Local produce, handicrafts, and traditional items",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Goubert+Market+Puducherry"
+    },
+    {
+      "name": "Auroville Boutiques",
+      "specialty": "Handmade products, organic goods, and artisan crafts",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Auroville+Boutiques+Puducherry"
+    }
+  ],
+  "travel_advisories": [
+    "Puducherry experiences hot and humid coastal weather for most of the year, therefore lightweight clothing, sunscreen, and hydration are highly recommended.",
+    "Renting scooters is one of the easiest ways to explore the city, but travelers should carry valid driving licenses and follow local traffic rules carefully.",
+    "Most beaches around Puducherry are rocky rather than sandy swimming beaches, so travelers should check safe swimming zones before entering the water.",
+    "Weekends and holiday seasons can become crowded because Puducherry is a popular road-trip destination from Chennai and Bengaluru."
+  ],
+  "packing_checklist": {
+    "compulsory": [
+      "Government ID / Passport",
+      "Comfortable walking sandals or shoes",
+      "Mobile phone and charger",
+      "Lightweight summer clothing",
+      "Sunscreen"
+    ],
+    "optional": [
+      "Camera",
+      "Power bank",
+      "Beachwear",
+      "Sunglasses",
+      "Reusable water bottle",
+      "Small backpack",
+      "Hat or cap",
+      "Basic medicines"
+    ]
+  },
+  "locations": [
+    {
+      "name": "Promenade Beach",
+      "description": "Promenade Beach is Puducherry’s most famous waterfront attraction known for its scenic walking path, ocean views, colonial surroundings, cafés, and peaceful sunrise experiences.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Promenade+Beach+Puducherry",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Sunrise or evening",
+      "cost_usd": 0.0,
+      "duration_hours": 2.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Seaside walking",
+        "Café exploration",
+        "Sunrise photography"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Auroville",
+      "description": "Auroville is an experimental international township near Puducherry focused on peace, sustainability, spirituality, and community living. It attracts visitors interested in meditation, architecture, yoga, and eco-friendly lifestyles.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Auroville+Puducherry",
+      "opening_time": "9:00 AM",
+      "closing_time": "6:00 PM",
+      "best_visit_time": "Morning or late afternoon",
+      "cost_usd": 0.0,
+      "duration_hours": 4.0,
+      "booking_required": false,
+      "booking_link": "https://auroville.org/",
+      "example_activities": [
+        "Matrimandir viewing",
+        "Sustainable community exploration",
+        "Cycling and café visits"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Paradise Beach",
+      "description": "Paradise Beach is one of Puducherry’s most scenic sandy beaches accessible primarily by boat rides through backwaters and mangrove surroundings.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Paradise+Beach+Puducherry",
+      "opening_time": "9:00 AM",
+      "closing_time": "5:00 PM",
+      "best_visit_time": "Morning or sunset",
+      "cost_usd": 150.0,
+      "duration_hours": 4.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Beach relaxation",
+        "Boat ride experiences",
+        "Photography and sunset viewing"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "White Town",
+      "description": "White Town is Puducherry’s most iconic heritage district filled with French colonial buildings, colorful streets, boutique cafés, art galleries, and cultural landmarks.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=White+Town+Puducherry",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Morning or evening",
+      "cost_usd": 0.0,
+      "duration_hours": 3.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Heritage street walks",
+        "Café hopping and photography",
+        "Art and culture exploration"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Sri Aurobindo Ashram",
+      "description": "Sri Aurobindo Ashram is one of India’s most respected spiritual centers founded by Sri Aurobindo and The Mother. The ashram attracts spiritual seekers from around the world.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Sri+Aurobindo+Ashram+Puducherry",
+      "opening_time": "8:00 AM",
+      "closing_time": "6:00 PM",
+      "best_visit_time": "Morning for peaceful atmosphere",
+      "cost_usd": 0.0,
+      "duration_hours": 1.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Meditation and spiritual reflection",
+        "Cultural learning",
+        "Bookstore and literature exploration"
+      ],
+      "image_url": null
+    }
+  ]
+}

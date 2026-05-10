@@ -1,0 +1,263 @@
+{
+  "slug": "cape-town",
+  "name": "Cape Town",
+  "country": "South Africa",
+  "country_code": "ZA",
+  "timezone": "Africa/Johannesburg",
+  "iata_code": "CPT",
+  "popularity_score": 80,
+  "description": "Cape Town is one of Africa’s most beautiful and culturally diverse cities, located on the southwestern coast of South Africa. The city is globally famous for its dramatic landscapes, Table Mountain, coastal drives, vineyards, beaches, wildlife experiences, and multicultural heritage. Cape Town offers a unique combination of mountains, oceans, modern city life, colonial history, and adventure tourism. Travelers visit the city for hiking, safari excursions, wine tasting, surfing, photography, and historical exploration. The city is also known for vibrant neighborhoods, scenic sunsets, penguin colonies, and the famous Cape of Good Hope, making it one of the world’s most visually spectacular travel destinations.\n\n---",
+  "cover_photo_url": "cape-town\\cape-town.jpg",
+  "map_link": "https://www.google.com/maps/search/?api=1&query=Cape+Town,+South+Africa",
+  "best_time_months": "November to March",
+  "best_time_why": "These months provide warm weather, clear skies, excellent beach conditions, scenic drives, hiking opportunities, and ideal conditions for outdoor exploration. This period also aligns with Cape Town’s summer tourism season.",
+  "cost_index_usd": 227.0,
+  "budget_breakdown": "A realistic traveler in Cape Town should expect daily expenses around ZAR 5,800–6,500 ($320–$360), depending on accommodation style and outdoor activity choices. Hotels near the V&A Waterfront and Atlantic coast generally form the largest part of the budget. Food costs remain moderate because Cape Town offers both affordable local eateries and premium fine-dining restaurants. Adventure activities such as safaris, shark cage diving, helicopter tours, and vineyard experiences can significantly increase daily expenses. Transportation is manageable through taxis and ride-sharing services, although renting a car is useful for scenic coastal drives and vineyard visits. Travelers can reduce costs by booking accommodations outside premium waterfront areas.\n\n---",
+  "cost_breakdown": [
+    {
+      "expense_type": "travel",
+      "cost_usd": 110.0,
+      "cost_local": 2000.0,
+      "local_currency": "ZAR",
+      "description": "Includes domestic flights within South Africa, airport transfers, or long-distance transportation. International travelers should additionally consider visa requirements, passport expenses, and international airfare costs."
+    },
+    {
+      "expense_type": "stay",
+      "cost_usd": 140.0,
+      "cost_local": 2550.0,
+      "local_currency": "ZAR",
+      "description": "Covers boutique hotels, guesthouses, or mid-range accommodations near waterfront or city-center districts. Luxury ocean-view resorts can significantly increase expenses."
+    },
+    {
+      "expense_type": "food",
+      "cost_usd": 30.0,
+      "cost_local": 550.0,
+      "local_currency": "ZAR",
+      "description": "Includes South African meals, seafood dining, café visits, snacks, and moderate restaurant experiences."
+    },
+    {
+      "expense_type": "activities",
+      "cost_usd": 45.0,
+      "cost_local": 820.0,
+      "local_currency": "ZAR",
+      "description": "Covers mountain cableways, safari excursions, museums, vineyard tours, and sightseeing attraction fees."
+    },
+    {
+      "expense_type": "local_transport",
+      "cost_usd": 12.0,
+      "cost_local": 220.0,
+      "local_currency": "ZAR",
+      "description": "Includes ride-sharing services, taxis, buses, and short-distance transportation throughout Cape Town."
+    }
+  ],
+  "food_items": [
+    {
+      "name": "Braai (South African Barbecue)",
+      "description": "Braai is one of South Africa’s most famous food traditions involving grilled meats, sausages, and vegetables cooked over open flames.",
+      "image_url": null
+    },
+    {
+      "name": "Bobotie",
+      "description": "A traditional Cape Malay dish prepared using spiced minced meat topped with baked egg custard and served with rice and chutney.",
+      "image_url": null
+    },
+    {
+      "name": "Bunny Chow",
+      "description": "A famous South African street-food dish consisting of hollowed bread filled with spicy curry, commonly enjoyed as comfort food.",
+      "image_url": null
+    },
+    {
+      "name": "Fresh Seafood",
+      "description": "Cape Town’s coastal location makes seafood dishes like grilled fish, calamari, mussels, and lobster highly popular among tourists.",
+      "image_url": null
+    },
+    {
+      "name": "Malva Pudding",
+      "description": "A sweet South African dessert served warm with cream or custard, known for its soft texture and caramel flavor.",
+      "image_url": null
+    }
+  ],
+  "food_areas": [
+    {
+      "name": "V&A Waterfront",
+      "specialty": "Seafood, fine dining, and international cuisine",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=V%26A+Waterfront+Cape+Town"
+    },
+    {
+      "name": "Bo-Kaap",
+      "specialty": "Cape Malay cuisine and traditional dishes",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Bo+Kaap+Cape+Town"
+    },
+    {
+      "name": "Kloof Street",
+      "specialty": "Cafés, modern restaurants, and nightlife dining",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Kloof+Street+Cape+Town"
+    }
+  ],
+  "buy_items": [
+    {
+      "name": "South African Wines",
+      "description": "Cape Town is world-famous for nearby vineyards producing premium wines including Pinotage, Chenin Blanc, and Sauvignon Blanc.",
+      "image_url": null
+    },
+    {
+      "name": "African Handicrafts and Beadwork",
+      "description": "Handmade African art, bead jewelry, wooden sculptures, and traditional crafts are popular cultural souvenirs.",
+      "image_url": null
+    },
+    {
+      "name": "Rooibos Tea Products",
+      "description": "South Africa’s famous herbal rooibos tea is widely purchased along with skincare and wellness products made using rooibos extracts.",
+      "image_url": null
+    },
+    {
+      "name": "Leather Goods",
+      "description": "Handmade leather bags, wallets, jackets, and safari-inspired accessories are commonly sold in Cape Town markets.",
+      "image_url": null
+    },
+    {
+      "name": "Diamond and Gemstone Jewelry",
+      "description": "South Africa’s mining history makes gemstones and handcrafted jewelry popular luxury purchases.",
+      "image_url": null
+    },
+    {
+      "name": "Safari and Wildlife Souvenirs",
+      "description": "Wildlife-themed décor items, paintings, and safari-inspired collectibles are commonly purchased by tourists.",
+      "image_url": null
+    }
+  ],
+  "shopping_markets": [
+    {
+      "name": "Greenmarket Square",
+      "specialty": "African crafts, souvenirs, and beadwork",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Greenmarket+Square+Cape+Town"
+    },
+    {
+      "name": "V&A Waterfront Shopping Area",
+      "specialty": "Luxury shopping and premium brands",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=V%26A+Waterfront+Shopping+Cape+Town"
+    },
+    {
+      "name": "Old Biscuit Mill Market",
+      "specialty": "Artisan products, food, and local crafts",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Biscuit+Mill+Cape+Town"
+    }
+  ],
+  "travel_advisories": [
+    "Travelers should remain cautious with valuables in crowded tourist areas and avoid isolated locations late at night, especially when traveling alone.",
+    "Cape Town weather can change rapidly because of coastal and mountain conditions, therefore layered clothing is highly recommended.",
+    "Popular hiking routes such as Table Mountain should ideally be explored during daylight hours and with proper preparation.",
+    "Renting a car is highly beneficial for visiting vineyards, coastal drives, and attractions located outside the city center."
+  ],
+  "packing_checklist": {
+    "compulsory": [
+      "Passport and travel documents",
+      "Comfortable walking or hiking shoes",
+      "Mobile phone and charger",
+      "Lightweight layered clothing",
+      "Sunscreen"
+    ],
+    "optional": [
+      "Camera",
+      "Power bank",
+      "Sunglasses",
+      "Reusable water bottle",
+      "Light jacket",
+      "Binoculars for wildlife viewing",
+      "Small backpack",
+      "Basic medicines"
+    ]
+  },
+  "locations": [
+    {
+      "name": "Table Mountain",
+      "description": "Table Mountain is Cape Town’s most iconic natural landmark known for its flat-topped summit, panoramic city views, hiking trails, and cable car experiences.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Table+Mountain+Cape+Town",
+      "opening_time": "8:00 AM",
+      "closing_time": "7:00 PM",
+      "best_visit_time": "Morning or sunset",
+      "cost_usd": 420.0,
+      "duration_hours": 3.0,
+      "booking_required": true,
+      "booking_link": "https://www.tablemountain.net/",
+      "example_activities": [
+        "Cable car rides",
+        "Hiking and trekking",
+        "Landscape photography"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "V&A Waterfront",
+      "description": "The Victoria & Alfred Waterfront is Cape Town’s most popular entertainment and shopping district featuring restaurants, shopping centers, museums, harbor views, and cultural attractions.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=V%26A+Waterfront+Cape+Town",
+      "opening_time": "9:00 AM",
+      "closing_time": "10:00 PM",
+      "best_visit_time": "Evening",
+      "cost_usd": 0.0,
+      "duration_hours": 4.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Waterfront dining",
+        "Shopping and entertainment",
+        "Harbor cruises"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Cape of Good Hope",
+      "description": "Cape of Good Hope is one of South Africa’s most famous coastal landmarks known for dramatic cliffs, ocean views, wildlife, and scenic driving routes within Table Mountain National Park.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Cape+of+Good+Hope",
+      "opening_time": "6:00 AM",
+      "closing_time": "6:00 PM",
+      "best_visit_time": "Morning or afternoon",
+      "cost_usd": 400.0,
+      "duration_hours": 5.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Scenic coastal drives",
+        "Wildlife observation",
+        "Cliffside photography"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Boulders Beach",
+      "description": "Boulders Beach is internationally famous for its colony of African penguins living along scenic white-sand beaches and granite boulder formations.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Boulders+Beach+Cape+Town",
+      "opening_time": "8:00 AM",
+      "closing_time": "5:00 PM",
+      "best_visit_time": "Morning",
+      "cost_usd": 190.0,
+      "duration_hours": 2.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Penguin observation",
+        "Beach relaxation",
+        "Wildlife photography"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Bo-Kaap",
+      "description": "Bo-Kaap is Cape Town’s colorful historic neighborhood known for bright houses, Cape Malay culture, cobbled streets, and cultural heritage.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Bo+Kaap+Cape+Town",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Morning or late afternoon",
+      "cost_usd": 0.0,
+      "duration_hours": 1.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Cultural walking tours",
+        "Photography sessions",
+        "Traditional food experiences"
+      ],
+      "image_url": null
+    }
+  ]
+}

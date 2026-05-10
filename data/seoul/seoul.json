@@ -1,0 +1,263 @@
+{
+  "slug": "seoul",
+  "name": "Seoul",
+  "country": "South Korea",
+  "country_code": "KR",
+  "timezone": "Asia/Seoul",
+  "iata_code": "ICN",
+  "popularity_score": 87,
+  "description": "Seoul is the capital city of South Korea and one of Asia’s most technologically advanced and culturally vibrant metropolitan cities. The city combines futuristic skyscrapers, high-speed technology, luxury shopping districts, and modern entertainment with centuries-old palaces, temples, and traditional Korean culture. Seoul is globally famous for K-pop, Korean dramas, street food markets, fashion, skincare products, and nightlife. The city offers an exciting mix of history, innovation, café culture, mountain landscapes, and urban experiences, making it one of the most visited destinations in East Asia. Travelers visit Seoul for its efficient transportation system, safety, shopping, food experiences, cultural attractions, and unique combination of tradition and modernity.\n\n---",
+  "cover_photo_url": "seoul\\seoul.jpg",
+  "map_link": "https://www.google.com/maps/search/?api=1&query=Seoul,+South+Korea",
+  "best_time_months": "March to May and September to November",
+  "best_time_why": "These months provide comfortable temperatures, clear skies, cherry blossom or autumn foliage views, and pleasant conditions for sightseeing, shopping, walking tours, and outdoor cultural activities. Summers can be humid while winters become extremely cold.",
+  "cost_index_usd": 215.0,
+  "budget_breakdown": "A realistic traveler in Seoul can expect daily expenses around ₩420,000–₩450,000 ($300–$320), depending on accommodation type and shopping preferences. Accommodation forms one of the largest expenses, especially in tourist-heavy districts such as Myeongdong, Hongdae, and Gangnam. Food costs remain moderate because Seoul offers everything from affordable street food and convenience-store meals to premium Korean barbecue restaurants. Public transportation is highly efficient, affordable, and one of the best ways to reduce travel costs. Shopping, skincare purchases, and entertainment experiences such as K-pop events or themed cafés can significantly increase daily spending. Travelers can save money by purchasing transportation cards and staying slightly outside central shopping districts.\n\n---",
+  "cost_breakdown": [
+    {
+      "expense_type": "travel",
+      "cost_usd": 95.0,
+      "cost_local": 130000.0,
+      "local_currency": "USD",
+      "description": "Includes domestic flights, airport transportation, or intercity high-speed rail travel within South Korea. International travelers should additionally consider passport, visa requirements, and international airfare expenses."
+    },
+    {
+      "expense_type": "stay",
+      "cost_usd": 130.0,
+      "cost_local": 175000.0,
+      "local_currency": "USD",
+      "description": "Covers average mid-range hotels, guesthouses, or centrally located accommodations for one night. Luxury hotels in Gangnam or Myeongdong can significantly increase costs."
+    },
+    {
+      "expense_type": "food",
+      "cost_usd": 35.0,
+      "cost_local": 47000.0,
+      "local_currency": "USD",
+      "description": "Includes Korean meals, café visits, snacks, street food, and moderate dining experiences throughout the city."
+    },
+    {
+      "expense_type": "activities",
+      "cost_usd": 40.0,
+      "cost_local": 54000.0,
+      "local_currency": "USD",
+      "description": "Covers palace tickets, museums, observation decks, K-pop experiences, and cultural attraction entry fees."
+    },
+    {
+      "expense_type": "local_transport",
+      "cost_usd": 10.0,
+      "cost_local": 13500.0,
+      "local_currency": "USD",
+      "description": "Includes Seoul Metro rides, buses, airport transit, and short-distance transportation within the city."
+    }
+  ],
+  "food_items": [
+    {
+      "name": "Kimchi",
+      "description": "Korea’s most famous traditional dish made from fermented vegetables, usually cabbage and radish, mixed with chili, garlic, and seasonings. It is served with almost every Korean meal.",
+      "image_url": null
+    },
+    {
+      "name": "Korean BBQ (Samgyeopsal)",
+      "description": "One of Seoul’s most popular dining experiences where diners grill pork or beef at the table and eat it with sauces, lettuce wraps, and side dishes.",
+      "image_url": null
+    },
+    {
+      "name": "Tteokbokki",
+      "description": "A spicy street-food dish prepared using chewy rice cakes cooked in sweet and spicy red chili sauce. It is especially popular in night markets.",
+      "image_url": null
+    },
+    {
+      "name": "Bibimbap",
+      "description": "A mixed rice dish topped with vegetables, meat, egg, chili paste, and sesame oil. It is one of Korea’s most internationally recognized meals.",
+      "image_url": null
+    },
+    {
+      "name": "Korean Fried Chicken",
+      "description": "Famous for its crispy texture and flavorful sauces, Korean fried chicken is widely enjoyed alongside beer in Seoul’s nightlife districts.",
+      "image_url": null
+    }
+  ],
+  "food_areas": [
+    {
+      "name": "Myeongdong",
+      "specialty": "Street food, Korean snacks, and desserts",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Myeongdong+Seoul"
+    },
+    {
+      "name": "Hongdae",
+      "specialty": "Cafés, Korean BBQ, and youth food culture",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Hongdae+Seoul"
+    },
+    {
+      "name": "Gwangjang Market",
+      "specialty": "Traditional Korean street food and local dishes",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Gwangjang+Market+Seoul"
+    }
+  ],
+  "buy_items": [
+    {
+      "name": "Korean Skincare and Cosmetics",
+      "description": "Seoul is globally famous for advanced skincare products, beauty brands, sheet masks, and cosmetics that are widely purchased by international tourists.",
+      "image_url": null
+    },
+    {
+      "name": "K-pop Merchandise",
+      "description": "Albums, posters, light sticks, clothing, and idol merchandise are highly popular among K-pop fans visiting Seoul.",
+      "image_url": null
+    },
+    {
+      "name": "Traditional Hanbok Clothing",
+      "description": "Hanbok outfits represent traditional Korean culture and are commonly purchased or rented for palace photography experiences.",
+      "image_url": null
+    },
+    {
+      "name": "Korean Snacks and Instant Ramen",
+      "description": "Korean snacks, instant noodles, and flavored products are popular souvenirs because of their unique taste and global popularity.",
+      "image_url": null
+    },
+    {
+      "name": "Stationery and Lifestyle Products",
+      "description": "Seoul is known for aesthetically designed stationery, home décor products, and creative lifestyle accessories.",
+      "image_url": null
+    },
+    {
+      "name": "Electronics and Gadgets",
+      "description": "South Korea’s advanced technology industry makes Seoul a popular destination for purchasing electronics and gaming products.",
+      "image_url": null
+    }
+  ],
+  "shopping_markets": [
+    {
+      "name": "Myeongdong Shopping Street",
+      "specialty": "Cosmetics, fashion, and K-beauty products",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Myeongdong+Shopping+Street+Seoul"
+    },
+    {
+      "name": "Dongdaemun Market",
+      "specialty": "Fashion, fabrics, and wholesale shopping",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Dongdaemun+Market+Seoul"
+    },
+    {
+      "name": "Insadong",
+      "specialty": "Traditional crafts, tea shops, and cultural souvenirs",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Insadong+Seoul"
+    }
+  ],
+  "travel_advisories": [
+    "Seoul experiences cold winters and hot humid summers, therefore travelers should carefully check seasonal weather conditions before packing.",
+    "Public transportation is highly efficient and cashless systems are widely used, so carrying a T-money transportation card is highly recommended.",
+    "Many restaurants and local markets primarily use Korean language menus, therefore translation apps can be useful for smoother food and shopping experiences.",
+    "Popular tourist attractions and shopping districts become crowded during weekends and evenings, especially in Myeongdong, Hongdae, and Gangnam areas."
+  ],
+  "packing_checklist": {
+    "compulsory": [
+      "Passport and travel documents",
+      "Comfortable walking shoes",
+      "Mobile phone and charger",
+      "International payment cards",
+      "Weather-appropriate clothing"
+    ],
+    "optional": [
+      "Power bank",
+      "Universal travel adapter",
+      "Portable Wi-Fi or SIM card",
+      "Camera",
+      "Sunglasses",
+      "Reusable water bottle",
+      "Basic medicines",
+      "Translation app or phrase guide"
+    ]
+  },
+  "locations": [
+    {
+      "name": "Gyeongbokgung Palace",
+      "description": "Gyeongbokgung Palace is Seoul’s largest and most historically important royal palace originally built during the Joseon Dynasty. The palace complex showcases traditional Korean architecture, royal halls, gardens, and cultural ceremonies.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Gyeongbokgung+Palace+Seoul",
+      "opening_time": "9:00 AM",
+      "closing_time": "6:00 PM",
+      "best_visit_time": "Morning for guard ceremony and fewer crowds",
+      "cost_usd": 3.0,
+      "duration_hours": 3.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Palace architecture exploration",
+        "Hanbok photography",
+        "Royal guard changing ceremony"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "N Seoul Tower",
+      "description": "N Seoul Tower is one of the city’s most iconic observation towers located on Namsan Mountain. The tower provides panoramic skyline views of Seoul and is especially popular among couples and photographers.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=N+Seoul+Tower",
+      "opening_time": "10:00 AM",
+      "closing_time": "11:00 PM",
+      "best_visit_time": "Sunset or nighttime",
+      "cost_usd": 21.0,
+      "duration_hours": 2.5,
+      "booking_required": true,
+      "booking_link": "https://www.seoultower.co.kr/",
+      "example_activities": [
+        "Observation deck visit",
+        "Love lock experience",
+        "Night photography"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Bukchon Hanok Village",
+      "description": "Bukchon Hanok Village is a traditional Korean neighborhood filled with preserved Hanok houses, narrow streets, tea houses, cultural workshops, and historical architecture dating back centuries.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Bukchon+Hanok+Village+Seoul",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Morning or late afternoon",
+      "cost_usd": 0.0,
+      "duration_hours": 2.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Traditional street exploration",
+        "Cultural café visits",
+        "Photography sessions"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Myeongdong Shopping Street",
+      "description": "Myeongdong is Seoul’s most famous shopping district known for cosmetics, fashion stores, K-beauty brands, cafés, and street-food stalls. It is one of the busiest tourist zones in South Korea.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Myeongdong+Shopping+Street+Seoul",
+      "opening_time": "10:00 AM",
+      "closing_time": "10:00 PM",
+      "best_visit_time": "Evening for street food and shopping atmosphere",
+      "cost_usd": 0.0,
+      "duration_hours": 3.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Korean skincare shopping",
+        "Street-food tasting",
+        "Fashion exploration"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Lotte World Tower",
+      "description": "Lotte World Tower is one of the tallest buildings in the world and a major modern landmark in Seoul. The tower contains observation decks, luxury shopping malls, entertainment spaces, and panoramic city views.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Lotte+World+Tower+Seoul",
+      "opening_time": "10:30 AM",
+      "closing_time": "10:00 PM",
+      "best_visit_time": "Sunset or evening skyline viewing",
+      "cost_usd": 31.0,
+      "duration_hours": 3.0,
+      "booking_required": true,
+      "booking_link": "https://www.lwt.co.kr/",
+      "example_activities": [
+        "Seoul Sky observation deck",
+        "Luxury shopping and dining",
+        "Glass-floor experience"
+      ],
+      "image_url": null
+    }
+  ]
+}

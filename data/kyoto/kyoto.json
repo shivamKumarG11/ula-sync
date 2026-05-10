@@ -1,0 +1,263 @@
+{
+  "slug": "kyoto",
+  "name": "Kyoto",
+  "country": "Japan",
+  "country_code": "JP",
+  "timezone": "Asia/Tokyo",
+  "iata_code": "ITM",
+  "popularity_score": 88,
+  "description": "Kyoto is one of Japan’s most culturally significant and historically preserved cities, famous for its ancient temples, traditional wooden houses, cherry blossoms, geisha culture, and peaceful gardens. Once the imperial capital of Japan for over a thousand years, Kyoto remains the heart of traditional Japanese heritage and attracts millions of travelers every year. The city is known for its shrines, bamboo forests, tea ceremonies, seasonal beauty, and historic districts such as Gion and Higashiyama. Kyoto offers a calm contrast to Japan’s futuristic cities by preserving traditional architecture, cultural rituals, and spiritual experiences. It is considered one of the best destinations in the world for travelers interested in history, photography, Japanese culture, food, and nature.\n\n---",
+  "cover_photo_url": "kyoto\\kyoto.jpg",
+  "map_link": "https://www.google.com/maps/search/?api=1&query=Kyoto,+Japan",
+  "best_time_months": "March to May and October to November",
+  "best_time_why": "These months provide comfortable weather, beautiful cherry blossoms or autumn foliage, and ideal conditions for temple visits, walking tours, garden exploration, and cultural experiences. Summers can become humid while winters are colder.",
+  "cost_index_usd": 230.0,
+  "budget_breakdown": "A realistic traveler in Kyoto should expect daily expenses around ¥50,000–¥55,000 ($330–$360), especially during cherry blossom and autumn seasons when tourism demand increases significantly. Accommodation forms the largest portion of the budget because traditional ryokans and centrally located stays are relatively expensive. Food costs remain manageable because Kyoto offers everything from affordable ramen shops to premium kaiseki dining experiences. Public transportation is highly efficient, although buses can become crowded during tourist seasons. Temple entry fees are generally affordable, but multiple sightseeing visits throughout the day can moderately increase expenses. Travelers can reduce costs by staying outside central heritage districts and purchasing transportation passes.\n\n---",
+  "cost_breakdown": [
+    {
+      "expense_type": "travel",
+      "cost_usd": 110.0,
+      "cost_local": 17000.0,
+      "local_currency": "USD",
+      "description": "Includes Shinkansen travel, airport transportation, or domestic flights within Japan. International travelers should additionally consider visa requirements, passport expenses, and international airfare costs."
+    },
+    {
+      "expense_type": "stay",
+      "cost_usd": 150.0,
+      "cost_local": 23000.0,
+      "local_currency": "USD",
+      "description": "Covers traditional ryokans, boutique hotels, or comfortable mid-range accommodations near central Kyoto districts. Luxury ryokans and peak-season stays can significantly increase prices."
+    },
+    {
+      "expense_type": "food",
+      "cost_usd": 40.0,
+      "cost_local": 6000.0,
+      "local_currency": "USD",
+      "description": "Includes ramen, sushi, café visits, traditional Japanese meals, snacks, and moderate restaurant dining experiences."
+    },
+    {
+      "expense_type": "activities",
+      "cost_usd": 30.0,
+      "cost_local": 4500.0,
+      "local_currency": "USD",
+      "description": "Covers temple entry fees, gardens, tea ceremonies, museums, and cultural attraction tickets."
+    },
+    {
+      "expense_type": "local_transport",
+      "cost_usd": 10.0,
+      "cost_local": 1500.0,
+      "local_currency": "USD",
+      "description": "Includes buses, trains, subway rides, bicycle rentals, and short-distance transportation throughout Kyoto city."
+    }
+  ],
+  "food_items": [
+    {
+      "name": "Kaiseki Ryori",
+      "description": "Kyoto is famous for traditional multi-course Japanese kaiseki meals featuring seasonal ingredients, artistic presentation, and refined culinary techniques.",
+      "image_url": null
+    },
+    {
+      "name": "Yudofu (Tofu Hot Pot)",
+      "description": "A simple yet highly respected Kyoto specialty prepared using soft tofu simmered in light broth, often served near temple districts.",
+      "image_url": null
+    },
+    {
+      "name": "Matcha Desserts",
+      "description": "Kyoto is globally known for premium Uji matcha tea products including matcha ice cream, cakes, parfaits, and traditional sweets.",
+      "image_url": null
+    },
+    {
+      "name": "Ramen and Udon",
+      "description": "Japanese noodle dishes are widely available throughout Kyoto, ranging from traditional soy-based ramen to thick udon soups.",
+      "image_url": null
+    },
+    {
+      "name": "Sushi and Sashimi",
+      "description": "Fresh seafood dishes, sushi, and seasonal Japanese delicacies remain popular among tourists exploring Kyoto’s food culture.",
+      "image_url": null
+    }
+  ],
+  "food_areas": [
+    {
+      "name": "Nishiki Market",
+      "specialty": "Street food, seafood, and Kyoto snacks",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Nishiki+Market+Kyoto"
+    },
+    {
+      "name": "Gion District",
+      "specialty": "Traditional kaiseki dining and tea houses",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Gion+Kyoto"
+    },
+    {
+      "name": "Pontocho Alley",
+      "specialty": "Riverside dining, Japanese cuisine, and nightlife",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Pontocho+Kyoto"
+    }
+  ],
+  "buy_items": [
+    {
+      "name": "Matcha Tea and Sweets",
+      "description": "Kyoto’s Uji matcha products are world-famous and include premium green tea powders, chocolates, cookies, and desserts.",
+      "image_url": null
+    },
+    {
+      "name": "Traditional Kimono and Yukata",
+      "description": "Handmade Japanese kimonos and lightweight yukatas are popular cultural purchases among travelers.",
+      "image_url": null
+    },
+    {
+      "name": "Japanese Ceramics and Pottery",
+      "description": "Kyoto is famous for handcrafted tea sets, ceramic bowls, and traditional Japanese pottery reflecting centuries of craftsmanship.",
+      "image_url": null
+    },
+    {
+      "name": "Japanese Folding Fans (Sensu)",
+      "description": "Decorative folding fans featuring traditional Japanese art and calligraphy are among Kyoto’s classic souvenirs.",
+      "image_url": null
+    },
+    {
+      "name": "Incense and Temple Products",
+      "description": "Kyoto’s temple culture makes incense sticks, meditation items, and spiritual products highly popular among tourists.",
+      "image_url": null
+    },
+    {
+      "name": "Handmade Stationery and Calligraphy Products",
+      "description": "Japanese paper products, notebooks, brushes, and calligraphy sets are commonly purchased because of Kyoto’s artistic traditions.",
+      "image_url": null
+    }
+  ],
+  "shopping_markets": [
+    {
+      "name": "Nishiki Market",
+      "specialty": "Food products, snacks, and souvenirs",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Nishiki+Market+Kyoto"
+    },
+    {
+      "name": "Shijo Street",
+      "specialty": "Fashion, department stores, and modern shopping",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Shijo+Street+Kyoto"
+    },
+    {
+      "name": "Gion Shopping Streets",
+      "specialty": "Traditional crafts, kimono shops, and artisan goods",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Gion+Shopping+Kyoto"
+    }
+  ],
+  "travel_advisories": [
+    "Kyoto’s major temples and heritage districts involve extensive walking and stair climbing, therefore comfortable walking footwear is extremely important.",
+    "Cherry blossom and autumn foliage seasons attract very large tourist crowds, so hotel and train bookings should be made well in advance.",
+    "Many temples and traditional districts maintain quiet cultural environments, therefore respectful behavior and modest clothing are recommended.",
+    "Kyoto weather changes significantly between seasons, so travelers should check seasonal forecasts carefully before packing."
+  ],
+  "packing_checklist": {
+    "compulsory": [
+      "Passport and travel documents",
+      "Comfortable walking shoes",
+      "Mobile phone and charger",
+      "Weather-appropriate clothing",
+      "International payment cards"
+    ],
+    "optional": [
+      "Camera",
+      "Power bank",
+      "Portable Wi-Fi device",
+      "Umbrella",
+      "Light backpack",
+      "Reusable water bottle",
+      "Universal travel adapter",
+      "Translation app or phrase guide"
+    ]
+  },
+  "locations": [
+    {
+      "name": "Fushimi Inari Taisha",
+      "description": "Fushimi Inari Taisha is Kyoto’s most iconic Shinto shrine famous for its thousands of bright red torii gates forming scenic pathways through forested mountain trails.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Fushimi+Inari+Taisha+Kyoto",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Early morning for fewer crowds",
+      "cost_usd": 0.0,
+      "duration_hours": 3.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Torii gate hiking",
+        "Photography sessions",
+        "Cultural and spiritual exploration"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Kinkaku-ji (Golden Pavilion)",
+      "description": "Kinkaku-ji is one of Kyoto’s most famous Zen temples known for its gold-covered exterior reflected beautifully in surrounding ponds and gardens.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Kinkakuji+Kyoto",
+      "opening_time": "9:00 AM",
+      "closing_time": "5:00 PM",
+      "best_visit_time": "Morning or autumn season",
+      "cost_usd": 500.0,
+      "duration_hours": 1.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Temple and garden exploration",
+        "Landscape photography",
+        "Cultural learning"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Arashiyama Bamboo Grove",
+      "description": "Arashiyama Bamboo Grove is one of Kyoto’s most peaceful natural attractions featuring towering bamboo forests, scenic walking paths, temples, and riverside landscapes.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Arashiyama+Bamboo+Grove+Kyoto",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Early morning",
+      "cost_usd": 0.0,
+      "duration_hours": 3.0,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Bamboo forest walks",
+        "Riverside sightseeing",
+        "Rickshaw experiences"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Gion District",
+      "description": "Gion is Kyoto’s most famous traditional entertainment district known for geisha culture, wooden machiya houses, tea houses, and historic streets preserving old Kyoto atmosphere.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Gion+Kyoto",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Evening",
+      "cost_usd": 0.0,
+      "duration_hours": 2.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Traditional street walks",
+        "Tea house experiences",
+        "Cultural photography"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Kiyomizu-dera Temple",
+      "description": "Kiyomizu-dera is one of Kyoto’s most famous Buddhist temples known for its massive wooden terrace overlooking the city and seasonal cherry blossom and autumn scenery.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Kiyomizudera+Kyoto",
+      "opening_time": "6:00 AM",
+      "closing_time": "6:00 PM",
+      "best_visit_time": "Sunrise or sunset",
+      "cost_usd": 500.0,
+      "duration_hours": 2.5,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Temple terrace viewing",
+        "Historic street exploration",
+        "Seasonal sightseeing"
+      ],
+      "image_url": null
+    }
+  ]
+}

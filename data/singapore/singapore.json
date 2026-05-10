@@ -1,0 +1,263 @@
+{
+  "slug": "singapore",
+  "name": "Singapore",
+  "country": "Singapore",
+  "country_code": "SG",
+  "timezone": "Asia/Singapore",
+  "iata_code": "SIN",
+  "popularity_score": 93,
+  "description": "Singapore is a modern island city-state in Southeast Asia known for its futuristic skyline, multicultural society, world-class infrastructure, and exceptional cleanliness. Despite being one of the smallest countries in the world, Singapore is globally recognized for iconic attractions like Marina Bay Sands, Gardens by the Bay, Sentosa Island, and Universal Studios Singapore. The city blends Chinese, Malay, Indian, and Western influences, creating a unique cultural and culinary identity. Singapore is also famous for luxury shopping, efficient public transportation, safety, and advanced urban planning. It is considered one of the best destinations in Asia for family vacations, solo travel, luxury tourism, food exploration, and business travel.\n\n---",
+  "cover_photo_url": "singapore\\singapore.jpg",
+  "map_link": "https://www.google.com/maps/search/?api=1&query=Singapore",
+  "best_time_months": "February to April",
+  "best_time_why": "These months generally experience relatively lower rainfall, pleasant humidity levels, and comfortable conditions for outdoor sightseeing, city exploration, theme parks, and waterfront activities. Singapore remains visitable throughout the year because of its tropical climate.",
+  "cost_index_usd": 270.0,
+  "budget_breakdown": "A realistic traveler in Singapore should expect daily expenses around SGD 470–500 ($350–$380), especially when staying near central tourist districts like Marina Bay or Orchard Road. Accommodation forms the largest expense because hotel prices in Singapore are relatively high compared to many Asian cities. Food costs can remain surprisingly affordable if travelers eat at famous hawker centers instead of premium restaurants. Public transportation is one of the city’s biggest advantages because the MRT system is efficient, safe, and inexpensive. Attraction tickets and theme park visits can significantly increase daily expenses, especially for families and first-time tourists. Travelers can reduce costs by booking hotels outside the central business district and using public transport extensively.\n\n---",
+  "cost_breakdown": [
+    {
+      "expense_type": "travel",
+      "cost_usd": 90.0,
+      "cost_local": 120.0,
+      "local_currency": "SGD",
+      "description": "Includes regional flights, airport transfers, and intercity transportation within Southeast Asia. International travelers should additionally consider passport, visa requirements (if applicable), and international airfare expenses."
+    },
+    {
+      "expense_type": "stay",
+      "cost_usd": 170.0,
+      "cost_local": 225.0,
+      "local_currency": "SGD",
+      "description": "Covers average mid-range hotels, serviced apartments, or centrally located accommodations for one night. Luxury hotels around Marina Bay can significantly increase expenses."
+    },
+    {
+      "expense_type": "food",
+      "cost_usd": 35.0,
+      "cost_local": 46.0,
+      "local_currency": "SGD",
+      "description": "Includes hawker center meals, café visits, snacks, beverages, and one moderate restaurant dining experience per day."
+    },
+    {
+      "expense_type": "activities",
+      "cost_usd": 55.0,
+      "cost_local": 73.0,
+      "local_currency": "SGD",
+      "description": "Covers attraction tickets like Universal Studios, Gardens by the Bay, observation decks, museums, and sightseeing experiences."
+    },
+    {
+      "expense_type": "local_transport",
+      "cost_usd": 10.0,
+      "cost_local": 13.0,
+      "local_currency": "SGD",
+      "description": "Includes MRT rides, buses, airport transit, and occasional taxi or ride-sharing usage around the city."
+    }
+  ],
+  "food_items": [
+    {
+      "name": "Hainanese Chicken Rice",
+      "description": "Singapore’s national dish consisting of poached chicken, fragrant rice, chili sauce, and soup. It is famous for its simple preparation, balanced flavor, and cultural significance.",
+      "image_url": null
+    },
+    {
+      "name": "Chili Crab",
+      "description": "One of Singapore’s most iconic seafood dishes prepared using crab cooked in sweet and spicy tomato-based sauce. It is especially popular among international tourists.",
+      "image_url": "singapore\\food\\Chili Crab.jpg"
+    },
+    {
+      "name": "Laksa",
+      "description": "A spicy noodle soup combining coconut milk, seafood, noodles, and herbs. The dish reflects Singapore’s multicultural Peranakan culinary heritage.",
+      "image_url": "singapore\\food\\Laksa.jpg"
+    },
+    {
+      "name": "Satay",
+      "description": "Grilled skewered meat served with peanut sauce, rice cakes, and onions. Satay is widely available in hawker centers and evening food streets.",
+      "image_url": "singapore\\food\\Satay.jpg"
+    },
+    {
+      "name": "Kaya Toast and Soft-Boiled Eggs",
+      "description": "A classic Singaporean breakfast consisting of toasted bread with kaya jam, butter, and soft-boiled eggs served with coffee or tea.",
+      "image_url": null
+    }
+  ],
+  "food_areas": [
+    {
+      "name": "Maxwell Food Centre",
+      "specialty": "Hainanese chicken rice and local hawker food",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Maxwell+Food+Centre+Singapore"
+    },
+    {
+      "name": "Lau Pa Sat",
+      "specialty": "Satay, seafood, and traditional Singaporean cuisine",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Lau+Pa+Sat+Singapore"
+    },
+    {
+      "name": "Chinatown Food Street",
+      "specialty": "Chinese street food, noodles, and desserts",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Chinatown+Food+Street+Singapore"
+    }
+  ],
+  "buy_items": [
+    {
+      "name": "Singaporean Orchid Perfumes",
+      "description": "Singapore is famous for orchid-inspired perfumes and fragrances that reflect the country’s national flower and tropical identity.",
+      "image_url": null
+    },
+    {
+      "name": "Bak Kwa",
+      "description": "Sweet and savory grilled meat slices are one of Singapore’s most popular edible souvenirs, especially during festive seasons.",
+      "image_url": "singapore\\things-to-buy\\Bak Kwa.jpg"
+    },
+    {
+      "name": "Merlion Souvenirs",
+      "description": "Miniature Merlion statues, keychains, magnets, and decorative items are iconic tourist souvenirs strongly associated with Singapore.",
+      "image_url": null
+    },
+    {
+      "name": "TWG Tea Products",
+      "description": "Premium tea blends from Singapore-based TWG Tea are internationally recognized and popular among tourists looking for luxury gifts.",
+      "image_url": "singapore\\things-to-buy\\TWG Tea Products.jpg"
+    },
+    {
+      "name": "Electronics and Gadgets",
+      "description": "Singapore is a major electronics shopping destination with modern malls offering cameras, gadgets, gaming products, and accessories.",
+      "image_url": null
+    },
+    {
+      "name": "Traditional Peranakan Products",
+      "description": "Colorful Peranakan ceramics, clothing, and decorative crafts reflect Singapore’s multicultural artistic heritage.",
+      "image_url": "singapore\\things-to-buy\\Traditional Peranakan Products.jpg"
+    }
+  ],
+  "shopping_markets": [
+    {
+      "name": "Orchard Road",
+      "specialty": "Luxury shopping, fashion brands, and electronics",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Orchard+Road+Singapore"
+    },
+    {
+      "name": "Bugis Street Market",
+      "specialty": "Affordable fashion, souvenirs, and street shopping",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Bugis+Street+Market+Singapore"
+    },
+    {
+      "name": "Chinatown Street Market",
+      "specialty": "Traditional souvenirs, snacks, and cultural products",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Chinatown+Street+Market+Singapore"
+    }
+  ],
+  "travel_advisories": [
+    "Singapore has strict public laws regarding littering, smoking zones, chewing gum restrictions, and public behavior, so travelers should familiarize themselves with local regulations before arrival.",
+    "The city experiences hot and humid tropical weather throughout the year, therefore lightweight clothing, hydration, and sunscreen are highly recommended.",
+    "Public transportation is extremely efficient and cashless payment systems are widely used, making travel cards and digital payment methods very convenient.",
+    "Popular attractions like Universal Studios Singapore, Marina Bay observation decks, and Night Safari can become crowded during weekends and school holidays, so advance bookings are recommended."
+  ],
+  "packing_checklist": {
+    "compulsory": [
+      "Passport and travel documents",
+      "Mobile phone and charger",
+      "Comfortable walking shoes",
+      "International payment cards",
+      "Lightweight clothing"
+    ],
+    "optional": [
+      "Umbrella",
+      "Power bank",
+      "Sunscreen",
+      "Universal travel adapter",
+      "Sunglasses",
+      "Reusable water bottle",
+      "Camera",
+      "Light rain jacket"
+    ]
+  },
+  "locations": [
+    {
+      "name": "Marina Bay Sands",
+      "description": "Marina Bay Sands is Singapore’s most iconic luxury hotel and entertainment complex known for its futuristic architecture, rooftop infinity pool, shopping mall, casino, and observation deck overlooking the city skyline.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Marina+Bay+Sands+Singapore",
+      "opening_time": "10:00 AM",
+      "closing_time": "10:00 PM",
+      "best_visit_time": "Evening during sunset and city light views",
+      "cost_usd": 35.0,
+      "duration_hours": 3.0,
+      "booking_required": true,
+      "booking_link": "https://www.marinabaysands.com/",
+      "example_activities": [
+        "SkyPark observation deck visit",
+        "Luxury shopping and dining",
+        "Evening light and fountain shows"
+      ],
+      "image_url": "singapore\\locations\\Marina Bay Sands.jpg"
+    },
+    {
+      "name": "Gardens by the Bay",
+      "description": "Gardens by the Bay is Singapore’s most famous futuristic nature park featuring giant Supertrees, climate-controlled domes, flower exhibitions, and waterfront gardens. It represents Singapore’s vision of combining urban life with sustainability and greenery.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Gardens+by+the+Bay+Singapore",
+      "opening_time": "5:00 AM",
+      "closing_time": "2:00 AM",
+      "best_visit_time": "Evening for Supertree light show",
+      "cost_usd": 32.0,
+      "duration_hours": 4.0,
+      "booking_required": true,
+      "booking_link": "https://www.gardensbythebay.com.sg/",
+      "example_activities": [
+        "Supertree Grove light show",
+        "Cloud Forest and Flower Dome visits",
+        "Waterfront photography"
+      ],
+      "image_url": "singapore\\locations\\Gardens by the Bay.jpg"
+    },
+    {
+      "name": "Sentosa Island",
+      "description": "Sentosa Island is Singapore’s premier entertainment and resort destination featuring beaches, luxury hotels, theme parks, casinos, and adventure activities. It is one of the city’s most family-friendly tourist zones.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Sentosa+Island+Singapore",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Morning to evening",
+      "cost_usd": 0.0,
+      "duration_hours": 8.0,
+      "booking_required": false,
+      "booking_link": "https://www.sentosa.com.sg/",
+      "example_activities": [
+        "Beach relaxation",
+        "Adventure attractions",
+        "Resort and entertainment exploration"
+      ],
+      "image_url": "singapore\\locations\\Sentosa Island.jpg"
+    },
+    {
+      "name": "Universal Studios Singapore",
+      "description": "Universal Studios Singapore is Southeast Asia’s first Universal Studios theme park and one of Singapore’s top tourist attractions. The park features movie-themed rides, roller coasters, entertainment zones, and family attractions.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Universal+Studios+Singapore",
+      "opening_time": "10:00 AM",
+      "closing_time": "7:00 PM",
+      "best_visit_time": "Weekday mornings",
+      "cost_usd": 83.0,
+      "duration_hours": 8.0,
+      "booking_required": true,
+      "booking_link": "https://www.rwsentosa.com/",
+      "example_activities": [
+        "Roller coaster rides",
+        "Character interactions",
+        "Themed zone exploration"
+      ],
+      "image_url": null
+    },
+    {
+      "name": "Merlion Park",
+      "description": "Merlion Park is one of Singapore’s most iconic tourist landmarks featuring the famous Merlion statue, a mythical creature with a lion’s head and fish body symbolizing Singapore’s identity and maritime history.",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Merlion+Park+Singapore",
+      "opening_time": "Open all day",
+      "closing_time": "Open all day",
+      "best_visit_time": "Sunrise or evening",
+      "cost_usd": 0.0,
+      "duration_hours": 0.75,
+      "booking_required": false,
+      "booking_link": null,
+      "example_activities": [
+        "Iconic photography",
+        "Marina Bay waterfront walks",
+        "Night skyline viewing"
+      ],
+      "image_url": null
+    }
+  ]
+}
