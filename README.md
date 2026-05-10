@@ -13,7 +13,7 @@ Traveloop is a full-stack travel planning platform that combines intelligent AI 
 ### Key Features
 
 | Feature | Description |
-|---|---|
+| --- | --- |
 | **AI Itinerary Generator** | Generate complete day-by-day plans for any trip based on your pace, interests, and budget |
 | **Visual Itinerary Builder** | Drag-and-drop stops, add activities, reorder your route |
 | **Budget Tracker** | Real-time cost breakdown across stops and activity categories |
@@ -30,6 +30,7 @@ Traveloop is a full-stack travel planning platform that combines intelligent AI 
 ## Tech Stack
 
 ### Frontend
+
 - **React 18** + **TypeScript 5** (strict mode)
 - **Vite 5** — fast builds with `@` path alias
 - **TanStack Query v5** — server state with optimistic updates
@@ -42,6 +43,7 @@ Traveloop is a full-stack travel planning platform that combines intelligent AI 
 - **Recharts** — budget pie charts and admin analytics
 
 ### Backend
+
 - **Flask 3** (Python) with application factory pattern
 - **PostgreSQL** + **SQLAlchemy 2** + **Alembic** migrations
 - **Flask-JWT-Extended** — httpOnly cookie JWT auth with refresh token rotation
@@ -50,6 +52,7 @@ Traveloop is a full-stack travel planning platform that combines intelligent AI 
 - **WeasyPrint** — server-side PDF invoice generation
 
 ### AI & External APIs
+
 - **Token Router** — LLM gateway (OpenAI-compatible) for all AI features
 - **Amadeus** — real-time flight search
 - **OpenTripMap** — points of interest enrichment
@@ -64,7 +67,7 @@ Traveloop is a full-stack travel planning platform that combines intelligent AI 
 
 ## Project Structure
 
-```
+```text
 ula-sync/
 ├── backend/          # Flask API server
 │   ├── app/
@@ -158,6 +161,7 @@ npm run dev
 ## Environment Variables
 
 See [`backend/.env.example`](backend/.env.example) and [`frontend/.env.example`](frontend/.env.example) for fully documented variable descriptions including:
+
 - How to obtain each API key
 - What features each key enables
 - What happens if it's missing
@@ -171,7 +175,7 @@ See [`backend/.env.example`](backend/.env.example) and [`frontend/.env.example`]
 The `data/` folder contains rich datasets for 20 destinations:
 
 | City | Country | Includes |
-|---|---|---|
+| --- | --- | --- |
 | Bali | Indonesia | Cover, JSON data |
 | Cape Town | South Africa | Cover, JSON data |
 | Coimbatore | India | Cover, JSON data |
@@ -198,7 +202,7 @@ The `data/` folder contains rich datasets for 20 destinations:
 All endpoints are prefixed `/api/v1/`. Authentication uses httpOnly JWT cookies.
 
 | Module | Prefix | Description |
-|---|---|---|
+| --- | --- | --- |
 | Auth | `/auth` | Register, login, logout, refresh, me |
 | Users | `/users` | Profile update, saved cities |
 | Trips | `/trips` | CRUD, share |
